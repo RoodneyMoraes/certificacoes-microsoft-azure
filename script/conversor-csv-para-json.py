@@ -22,6 +22,6 @@ def csv_to_json(csv_file_path, json_file_path):
         json.dump(data, json_file, indent=4)
 
 # Exemplo de uso
-csv_file_path = 'C:/Users/roodn/Downloads/Base.csv'
-json_file_path = 'C:/Users/roodn/Downloads/novo_arquivo.json'
+csv_file_path = 'C:/Users/roodn/Downloads/simulados-microsoft-azure/script/resultados.csv'
+json_file_path = 'C:/Users/roodn/Downloads/simulados-microsoft-azure/script/resultados.json'
 csv_to_json(csv_file_path, json_file_path)

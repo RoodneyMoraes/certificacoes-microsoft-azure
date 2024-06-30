@@ -1,14 +1,13 @@
 import time
 import requests
-from openpyxl import Workbook
-from openpyxl.styles import Font
+import csv
 
 # Função para pesquisar no Google API
 def pesquisar_google_api(query_pesquisa):
     url_da_api = "https://www.googleapis.com/customsearch/v1"
     parametros = {
-        "key": "SUA KEY AQUI",
-        "cx": "SUA CAIXA AQUI",
+        "key": "",
+        "cx": "",
         "q": query_pesquisa
     }
     
@@ -27,32 +26,24 @@ def pesquisar_google_api(query_pesquisa):
         link = ""
     return titulo, link
 
-# Função para salvar os resultados em um arquivo Excel
-def salvar_em_excel(resultados, nome_arquivo="resultados.xlsx"):
-    wb = Workbook()
-    ws = wb.active
-    ws.append(["Título", "Link"])  # Adiciona cabeçalho
-    for titulo, link in resultados:
-        if link:
-            ws.append([titulo, link])
-            cell_link = ws.cell(row=ws.max_row, column=2)
-            if not titulo.startswith("Erro:"):
-                cell_link.hyperlink = link
-                cell_link.font = Font(color="0000FF", underline="single")
-        else:
-            ws.append([titulo, "Sem link"])
-    wb.save(nome_arquivo)
+# Função para salvar os resultados em um arquivo CSV
+def salvar_em_csv(resultados, nome_arquivo="resultados.csv"):
+    with open(nome_arquivo, mode='w', newline='', encoding='utf-8') as arquivo_csv:
+        escritor_csv = csv.writer(arquivo_csv)
+        escritor_csv.writerow(["Título", "Link"])  # Adiciona cabeçalho
+        for titulo, link in resultados:
+            escritor_csv.writerow([titulo, link])
     print(f"Arquivo '{nome_arquivo}' salvo com sucesso.")
 
 # Execução principal
 if __name__ == "__main__":
     resultados = []
 
-    for i in range(1, 105):
-        query_pesquisa = f"examtopics az-104 topic 2 question {i}"
+    for i in range(1, 101):
+        query_pesquisa = f"examtopics ai-900 topic 1 question {i}"
         titulo, link = pesquisar_google_api(query_pesquisa)
         resultados.append((titulo, link))
         print(f"Processado: questão {i}.")
         time.sleep(1)  # Delay de 1 segundo para evitar erro 429
 
-    salvar_em_excel(resultados)
+    salvar_em_csv(resultados)
