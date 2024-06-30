@@ -1,0 +1,2323 @@
+{
+    "title": "Simulado da Microsoft Azure - AZ-104",
+    "AZ-104 | ExamTopics | Topic 1": [
+        {
+            "title": "Exam AZ-104 topic 1 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56828-exam-az-104-topic-1-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57044-exam-az-104-topic-1-question-2-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57111-exam-az-104-topic-1-question-3-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 4 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56829-exam-az-104-topic-1-question-4-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 5 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62817-exam-az-104-topic-1-question-5-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 6 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57782-exam-az-104-topic-1-question-6-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 7 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59109-exam-az-104-topic-1-question-7-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 8 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56992-exam-az-104-topic-1-question-8-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 9 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57081-exam-az-104-topic-1-question-9-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 10 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57045-exam-az-104-topic-1-question-10-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 11 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56832-exam-az-104-topic-1-question-11-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 12 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56338-exam-az-104-topic-1-question-12-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 13 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57481-exam-az-104-topic-1-question-13-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 14 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57078-exam-az-104-topic-1-question-14-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 15 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57482-exam-az-104-topic-1-question-15-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 16 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56406-exam-az-104-topic-1-question-16-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 17 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56352-exam-az-104-topic-1-question-17-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 18 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57002-exam-az-104-topic-1-question-18-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 19 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62874-exam-az-104-topic-1-question-19-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 20 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62875-exam-az-104-topic-1-question-20-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 21 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57060-exam-az-104-topic-1-question-21-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 22 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62878-exam-az-104-topic-1-question-22-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 23 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62880-exam-az-104-topic-1-question-23-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 24 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57486-exam-az-104-topic-1-question-24-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 25 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57485-exam-az-104-topic-1-question-25-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 26 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74289-exam-az-104-topic-1-question-26-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 27 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57495-exam-az-104-topic-1-question-27-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 28 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38358-exam-az-104-topic-2-question-28-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 29 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/59581-exam-az-104-topic-1-question-29-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 30 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57109-exam-az-104-topic-1-question-30-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 31 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57061-exam-az-104-topic-1-question-31-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 32 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57004-exam-az-104-topic-1-question-32-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 33 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56963-exam-az-104-topic-1-question-33-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 34 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56296-exam-az-104-topic-1-question-34-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 35 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56297-exam-az-104-topic-1-question-35-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 36 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57347-exam-az-104-topic-1-question-36-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 37 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57225-exam-az-104-topic-1-question-37-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 38 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78362-exam-az-104-topic-1-question-38-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 39 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78363-exam-az-104-topic-1-question-39-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 40 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78364-exam-az-104-topic-1-question-40-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 2": [
+        {
+            "title": "Exam AZ-104 topic 2 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75850-exam-az-104-topic-2-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75852-exam-az-104-topic-2-question-2-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75853-exam-az-104-topic-2-question-3-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 4 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75856-exam-az-104-topic-2-question-4-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 5 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38107-exam-az-104-topic-2-question-5-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 6 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38132-exam-az-104-topic-2-question-6-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 7 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75857-exam-az-104-topic-2-question-7-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 8 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38114-exam-az-104-topic-2-question-8-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 9 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25995-exam-az-104-topic-2-question-9-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 10 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26088-exam-az-104-topic-2-question-10-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 11 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26628-exam-az-104-topic-2-question-11-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 12 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28102-exam-az-104-topic-2-question-12-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 13 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28103-exam-az-104-topic-2-question-13-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 14 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75854-exam-az-104-topic-2-question-14-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 15 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56349-exam-az-104-topic-2-question-15-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 16 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62888-exam-az-104-topic-2-question-16-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 17 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38185-exam-az-104-topic-2-question-17-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 18 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35085-exam-az-104-topic-2-question-18-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 19 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38859-exam-az-104-topic-2-question-19-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 20 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38879-exam-az-104-topic-2-question-20-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 21 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38457-exam-az-104-topic-2-question-21-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 22 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62977-exam-az-104-topic-2-question-22-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 23 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62980-exam-az-104-topic-2-question-23-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 24 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38733-exam-az-104-topic-2-question-24-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 25 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38806-exam-az-104-topic-2-question-25-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 26 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38126-exam-az-104-topic-2-question-26-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 27 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38220-exam-az-104-topic-2-question-27-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 28 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38358-exam-az-104-topic-2-question-28-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 29 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38434-exam-az-104-topic-2-question-29-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 30 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51306-exam-az-104-topic-2-question-30-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 31 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62981-exam-az-104-topic-2-question-31-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 32 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38424-exam-az-104-topic-2-question-32-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 33 discussion - Questão Não Encontrada no Google",
+            "link": "/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 34 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38235-exam-az-104-topic-2-question-34-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 35 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38242-exam-az-104-topic-2-question-35-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 36 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38321-exam-az-104-topic-2-question-36-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 37 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51270-exam-az-104-topic-2-question-37-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 38 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41214-exam-az-104-topic-2-question-38-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 39 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51251-exam-az-104-topic-2-question-39-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 40 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43815-exam-az-104-topic-2-question-40-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 41 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51274-exam-az-104-topic-2-question-41-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 42 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78486-exam-az-104-topic-2-question-42-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 43 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63074-exam-az-104-topic-2-question-43-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 44 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62896-exam-az-104-topic-2-question-44-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 45 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62990-exam-az-104-topic-2-question-45-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 46 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63206-exam-az-104-topic-2-question-46-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 47 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73878-exam-az-104-topic-2-question-47-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 48 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67424-exam-az-104-topic-2-question-48-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 49 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67426-exam-az-104-topic-2-question-49-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 50 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67428-exam-az-104-topic-2-question-50-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 51 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67429-exam-az-104-topic-2-question-51-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 52 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73882-exam-az-104-topic-2-question-52-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 53 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74021-exam-az-104-topic-2-question-53-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 54 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78393-exam-az-104-topic-2-question-54-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 55 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78405-exam-az-104-topic-2-question-55-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 56 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78581-exam-az-104-topic-2-question-56-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 57 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78406-exam-az-104-topic-2-question-57-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 58 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39403-exam-az-104-topic-2-question-58-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 59 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75849-exam-az-104-topic-2-question-59-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 60 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75825-exam-az-104-topic-2-question-60-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 61 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78584-exam-az-104-topic-2-question-61-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 62 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78387-exam-az-104-topic-2-question-62-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 63 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93849-exam-az-104-topic-2-question-63-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 64 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93808-exam-az-104-topic-2-question-64-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 65 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93799-exam-az-104-topic-2-question-65-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 66 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93813-exam-az-104-topic-2-question-66-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 67 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93864-exam-az-104-topic-2-question-67-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 68 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93853-exam-az-104-topic-2-question-68-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 69 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93816-exam-az-104-topic-2-question-69-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 70 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93922-exam-az-104-topic-2-question-70-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 71 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95675-exam-az-104-topic-2-question-71-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 72 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95609-exam-az-104-topic-2-question-72-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 73 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98431-exam-az-104-topic-2-question-73-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 74 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98433-exam-az-104-topic-2-question-74-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 75 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98388-exam-az-104-topic-2-question-75-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 76 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102355-exam-az-104-topic-2-question-76-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 77 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102358-exam-az-104-topic-2-question-77-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 78 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102272-exam-az-104-topic-2-question-78-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 79 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102239-exam-az-104-topic-2-question-79-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 80 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/108482-exam-az-104-topic-2-question-80-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 81 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113107-exam-az-104-topic-2-question-81-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 82 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113106-exam-az-104-topic-2-question-82-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 83 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113182-exam-az-104-topic-2-question-83-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 84 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119739-exam-az-104-topic-2-question-84-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 85 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119740-exam-az-104-topic-2-question-85-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 86 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119707-exam-az-104-topic-2-question-86-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 87 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119724-exam-az-104-topic-2-question-87-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 88 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119592-exam-az-104-topic-2-question-88-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 89 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119651-exam-az-104-topic-2-question-89-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 90 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119584-exam-az-104-topic-2-question-90-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 91 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119745-exam-az-104-topic-2-question-91-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 92 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119595-exam-az-104-topic-2-question-92-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 93 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119599-exam-az-104-topic-2-question-93-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 94 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/122654-exam-az-104-topic-2-question-94-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 95 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/121863-exam-az-104-topic-2-question-95-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 96 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125198-exam-az-104-topic-2-question-96-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 97 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125199-exam-az-104-topic-2-question-97-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 98 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/126127-exam-az-104-topic-2-question-98-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 99 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125087-exam-az-104-topic-2-question-99-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 100 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/129702-exam-az-104-topic-2-question-100-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 101 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/130228-exam-az-104-topic-2-question-101-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 3": [
+        {
+            "title": "Exam AZ-104 topic 3 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51301-exam-az-104-topic-3-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38882-exam-az-104-topic-3-question-2-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38360-exam-az-104-topic-3-question-3-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 4 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38883-exam-az-104-topic-3-question-4-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 5 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38296-exam-az-104-topic-3-question-5-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 6 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38353-exam-az-104-topic-2-question-8-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 7 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38162-exam-az-104-topic-3-question-7-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 8 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38792-exam-az-104-topic-3-question-8-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 9 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38963-exam-az-104-topic-3-question-9-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 10 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38884-exam-az-104-topic-3-question-10-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 11 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39132-exam-az-104-topic-3-question-11-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 12 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38632-exam-az-104-topic-3-question-12-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 13 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38302-exam-az-104-topic-3-question-13-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 14 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38805-exam-az-104-topic-3-question-14-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 15 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39142-exam-az-104-topic-3-question-15-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 16 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67433-exam-az-104-topic-3-question-16-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 17 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38361-exam-az-104-topic-3-question-17-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 18 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38313-exam-az-104-topic-3-question-18-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 19 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38137-exam-az-104-topic-3-question-19-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 20 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38912-exam-az-104-topic-3-question-20-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 21 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38362-exam-az-104-topic-3-question-21-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 22 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38363-exam-az-104-topic-3-question-22-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 23 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63255-exam-az-104-topic-3-question-23-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 24 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63320-exam-az-104-topic-3-question-24-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 25 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38238-exam-az-104-topic-3-question-25-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 26 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38184-exam-az-104-topic-3-question-26-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 27 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38127-exam-az-104-topic-3-question-27-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 28 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75843-exam-az-104-topic-3-question-28-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 29 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51333-exam-az-104-topic-3-question-29-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 30 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51339-exam-az-104-topic-3-question-30-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 31 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38239-exam-az-104-topic-3-question-31-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 32 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51272-exam-az-104-topic-3-question-32-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 33 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39155-exam-az-104-topic-3-question-33-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 34 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75826-exam-az-104-topic-3-question-34-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 35 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53891-exam-az-104-topic-3-question-35-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 36 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53940-exam-az-104-topic-3-question-36-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 37 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63324-exam-az-104-topic-3-question-37-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 38 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67446-exam-az-104-topic-3-question-38-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 39 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67644-exam-az-104-topic-3-question-39-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 40 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78877-exam-az-104-topic-3-question-40-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 41 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62800-exam-az-104-topic-3-question-41-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 42 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62787-exam-az-104-topic-3-question-42-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 43 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78879-exam-az-104-topic-3-question-43-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 44 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73994-exam-az-104-topic-3-question-44-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 45 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25359-exam-az-104-topic-3-question-45-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 46 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63314-exam-az-104-topic-3-question-46-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 47 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78632-exam-az-104-topic-3-question-47-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 48 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78882-exam-az-104-topic-3-question-48-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 49 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93938-exam-az-104-topic-3-question-49-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 50 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93871-exam-az-104-topic-3-question-50-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 51 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93898-exam-az-104-topic-3-question-51-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 52 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93940-exam-az-104-topic-3-question-52-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 53 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93943-exam-az-104-topic-3-question-53-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 54 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93820-exam-az-104-topic-3-question-54-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 55 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94003-exam-az-104-topic-3-question-55-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 56 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93819-exam-az-104-topic-3-question-56-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 57 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93891-exam-az-104-topic-3-question-57-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 58 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95593-exam-az-104-topic-3-question-58-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 59 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95603-exam-az-104-topic-3-question-59-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 60 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95606-exam-az-104-topic-3-question-60-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 61 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95611-exam-az-104-topic-3-question-61-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 62 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95612-exam-az-104-topic-3-question-62-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 63 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98317-exam-az-104-topic-3-question-63-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 64 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98315-exam-az-104-topic-3-question-64-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 65 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102333-exam-az-104-topic-3-question-65-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 66 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102146-exam-az-104-topic-3-question-66-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 67 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102335-exam-az-104-topic-3-question-67-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 68 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102336-exam-az-104-topic-3-question-68-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 69 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102394-exam-az-104-topic-3-question-69-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 70 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102337-exam-az-104-topic-3-question-70-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 71 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/108646-exam-az-104-topic-3-question-71-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 72 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/108476-exam-az-104-topic-3-question-72-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 73 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113130-exam-az-104-topic-3-question-73-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 74 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113129-exam-az-104-topic-3-question-74-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 75 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119829-exam-az-104-topic-3-question-75-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 76 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119655-exam-az-104-topic-3-question-76-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 77 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119532-exam-az-104-topic-3-question-77-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 78 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119534-exam-az-104-topic-3-question-78-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 79 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119636-exam-az-104-topic-3-question-79-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 80 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119575-exam-az-104-topic-3-question-80-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 81 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/122369-exam-az-104-topic-3-question-81-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 82 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/122150-exam-az-104-topic-3-question-82-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 83 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125312-exam-az-104-topic-3-question-83-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 84 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125073-exam-az-104-topic-3-question-84-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 85 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125058-exam-az-104-topic-3-question-85-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 86 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125059-exam-az-104-topic-3-question-86-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 87 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125314-exam-az-104-topic-3-question-87-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 88 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125160-exam-az-104-topic-3-question-88-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 89 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125088-exam-az-104-topic-3-question-89-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 3 question 90 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/129670-exam-az-104-topic-3-question-90-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 4": [
+        {
+            "title": "Exam AZ-104 topic 4 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63248-exam-az-104-topic-4-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63251-exam-az-104-topic-4-question-2-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56867-exam-az-104-topic-4-question-3-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 4 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63106-exam-az-104-topic-4-question-4-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 5 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38264-exam-az-104-topic-4-question-5-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 6 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38288-exam-az-104-topic-4-question-6-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 7 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38292-exam-az-104-topic-4-question-7-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 8 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38305-exam-az-104-topic-4-question-8-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 9 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33474-exam-az-104-topic-4-question-9-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 10 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38548-exam-az-104-topic-4-question-10-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 11 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38403-exam-az-104-topic-4-question-11-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 12 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38402-exam-az-104-topic-4-question-12-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 13 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33739-exam-az-104-topic-4-question-13-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 14 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33741-exam-az-104-topic-4-question-14-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 15 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/40965-exam-az-104-topic-4-question-15-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 16 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33742-exam-az-104-topic-4-question-16-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 17 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34969-exam-az-104-topic-8-question-12-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 18 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38684-exam-az-104-topic-4-question-18-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 19 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38697-exam-az-104-topic-4-question-19-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 20 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38674-exam-az-104-topic-4-question-20-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 1 question 21 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57060-exam-az-104-topic-1-question-21-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 22 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38671-exam-az-104-topic-4-question-22-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 23 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38700-exam-az-104-topic-4-question-23-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 24 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38698-exam-az-104-topic-4-question-24-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 25 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38803-exam-az-104-topic-4-question-25-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 26 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28113-exam-az-104-topic-4-question-26-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 27 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67554-exam-az-104-topic-4-question-27-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 28 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28114-exam-az-104-topic-4-question-28-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 29 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62956-exam-az-104-topic-4-question-29-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 30 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67553-exam-az-104-topic-4-question-30-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 31 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28207-exam-az-104-topic-4-question-31-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 32 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78381-exam-az-104-topic-4-question-32-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 33 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38367-exam-az-104-topic-4-question-33-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 34 discussion - Questão Não Encontrada no Google",
+            "link": "/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 35 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38840-exam-az-104-topic-4-question-35-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 36 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38369-exam-az-104-topic-4-question-36-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 37 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38336-exam-az-104-topic-4-question-37-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 38 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74098-exam-az-104-topic-4-question-38-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 39 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51280-exam-az-104-topic-4-question-39-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 40 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38900-exam-az-104-topic-4-question-40-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 41 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38904-exam-az-104-topic-4-question-41-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 42 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38767-exam-az-104-topic-4-question-42-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 43 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38284-exam-az-104-topic-4-question-43-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 44 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38930-exam-az-104-topic-4-question-44-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 45 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38280-exam-az-104-topic-4-question-45-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 46 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38279-exam-az-104-topic-4-question-46-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 47 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38278-exam-az-104-topic-4-question-47-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 48 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63164-exam-az-104-topic-4-question-48-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 49 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38248-exam-az-104-topic-4-question-49-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 50 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38276-exam-az-104-topic-4-question-50-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 51 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38274-exam-az-104-topic-4-question-51-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 52 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41443-exam-az-104-topic-4-question-52-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 53 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51434-exam-az-104-topic-4-question-53-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 54 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51233-exam-az-104-topic-4-question-54-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 55 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51379-exam-az-104-topic-4-question-55-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 56 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38273-exam-az-104-topic-4-question-56-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 57 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38272-exam-az-104-topic-4-question-57-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 58 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38271-exam-az-104-topic-4-question-58-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 59 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38270-exam-az-104-topic-4-question-59-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 60 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38269-exam-az-104-topic-4-question-60-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 61 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63295-exam-az-104-topic-4-question-61-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 62 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63309-exam-az-104-topic-4-question-62-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 63 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62934-exam-az-104-topic-4-question-63-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 64 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62936-exam-az-104-topic-4-question-64-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 65 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67544-exam-az-104-topic-4-question-65-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 66 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51691-exam-az-104-topic-5-question-66-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 67 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67546-exam-az-104-topic-4-question-67-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 68 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67547-exam-az-104-topic-4-question-68-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 69 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56868-exam-az-104-topic-4-question-69-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 70 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38268-exam-az-104-topic-4-question-70-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 71 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38267-exam-az-104-topic-4-question-71-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 72 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62784-exam-az-104-topic-4-question-72-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 73 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56866-exam-az-104-topic-4-question-73-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 74 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78347-exam-az-104-topic-4-question-74-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 75 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78348-exam-az-104-topic-4-question-75-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 76 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80312-exam-az-104-topic-4-question-76-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 77 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78698-exam-az-104-topic-4-question-77-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 78 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78957-exam-az-104-topic-4-question-78-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 79 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78349-exam-az-104-topic-4-question-79-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 80 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78350-exam-az-104-topic-4-question-80-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 82 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93919-exam-az-104-topic-4-question-82-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 82 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93919-exam-az-104-topic-4-question-82-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 83 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93974-exam-az-104-topic-4-question-83-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 84 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93890-exam-az-104-topic-4-question-84-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 85 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93995-exam-az-104-topic-4-question-85-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 86 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93975-exam-az-104-topic-4-question-86-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 87 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93907-exam-az-104-topic-4-question-87-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 88 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95712-exam-az-104-topic-4-question-88-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 89 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95713-exam-az-104-topic-4-question-89-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 90 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98409-exam-az-104-topic-4-question-90-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 91 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/108477-exam-az-104-topic-4-question-91-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 92 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113169-exam-az-104-topic-4-question-92-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 93 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119635-exam-az-104-topic-4-question-93-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 94 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119703-exam-az-104-topic-4-question-94-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 95 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119710-exam-az-104-topic-4-question-95-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 96 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119629-exam-az-104-topic-4-question-96-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 97 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119630-exam-az-104-topic-4-question-97-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 98 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119631-exam-az-104-topic-4-question-98-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 99 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/121869-exam-az-104-topic-4-question-99-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 100 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125368-exam-az-104-topic-4-question-100-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 101 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125346-exam-az-104-topic-4-question-101-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 102 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125320-exam-az-104-topic-4-question-102-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 103 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125411-exam-az-104-topic-4-question-103-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 104 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/129729-exam-az-104-topic-4-question-104-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 105 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/130133-exam-az-104-topic-4-question-105-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 4 question 106 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/130127-exam-az-104-topic-4-question-106-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 5": [
+        {
+            "title": "Exam AZ-104 topic 5 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38955-exam-az-104-topic-5-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28532-exam-az-104-topic-5-question-2-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38287-exam-az-104-topic-5-question-3-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 4 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56448-exam-az-104-topic-5-question-4-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 5 discussion - Questão Não Encontrada no Google",
+            "link": "/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 6 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39015-exam-az-104-topic-5-question-6-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 7 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38429-exam-az-104-topic-5-question-7-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 8 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/29474-exam-az-104-topic-5-question-8-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 9 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28893-exam-az-104-topic-5-question-9-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 10 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39017-exam-az-104-topic-5-question-10-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 11 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39307-exam-az-104-topic-5-question-11-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 12 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39019-exam-az-104-topic-5-question-12-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 13 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38293-exam-az-104-topic-5-question-13-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 14 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33398-exam-az-104-topic-5-question-14-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 15 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39309-exam-az-104-topic-5-question-15-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 16 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56389-exam-az-104-topic-5-question-16-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 17 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38431-exam-az-104-topic-5-question-17-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 18 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39032-exam-az-104-topic-5-question-18-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 19 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39033-exam-az-104-topic-5-question-19-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 20 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38432-exam-az-104-topic-5-question-20-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 21 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38433-exam-az-104-topic-5-question-21-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 22 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63489-exam-az-104-topic-5-question-22-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 23 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38115-exam-az-104-topic-5-question-23-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 24 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63064-exam-az-104-topic-5-question-24-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 25 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39037-exam-az-104-topic-5-question-25-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 26 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39038-exam-az-104-topic-5-question-26-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 27 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39040-exam-az-104-topic-5-question-27-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 28 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39042-exam-az-104-topic-5-question-28-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 29 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39450-exam-az-104-topic-5-question-29-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 30 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38200-exam-az-104-topic-5-question-30-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 31 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38206-exam-az-104-topic-5-question-31-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 32 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51335-exam-az-104-topic-5-question-32-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 33 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33744-exam-az-104-topic-5-question-33-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 34 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38993-exam-az-104-topic-5-question-34-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 35 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28480-exam-az-104-topic-4-question-3-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 36 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38889-exam-az-104-topic-5-question-36-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 37 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38372-exam-az-104-topic-5-question-37-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 38 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38995-exam-az-104-topic-5-question-38-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 39 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33509-exam-az-104-topic-5-question-39-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 40 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38679-exam-az-104-topic-4-question-8-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 41 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38169-exam-az-104-topic-5-question-41-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 42 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38446-exam-az-104-topic-5-question-42-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 43 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51459-exam-az-104-topic-5-question-43-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 44 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51446-exam-az-104-topic-5-question-44-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 45 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51452-exam-az-104-topic-5-question-45-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 46 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51316-exam-az-104-topic-5-question-46-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 47 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51501-exam-az-104-topic-5-question-47-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 48 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51465-exam-az-104-topic-5-question-48-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 49 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51385-exam-az-104-topic-5-question-49-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 50 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51622-exam-az-104-topic-5-question-50-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 51 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51766-exam-az-104-topic-5-question-51-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 52 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51378-exam-az-104-topic-5-question-52-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 53 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51528-exam-az-104-topic-5-question-53-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 54 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51523-exam-az-104-topic-5-question-54-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 55 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/28116-exam-az-104-topic-5-question-55-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 56 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51238-exam-az-104-topic-5-question-56-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 57 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51684-exam-az-104-topic-5-question-57-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 58 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51321-exam-az-104-topic-5-question-58-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 59 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/52028-exam-az-104-topic-5-question-59-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 60 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25723-exam-az-104-topic-4-question-2-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 61 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43929-exam-az-104-topic-5-question-61-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 62 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51398-exam-az-104-topic-5-question-62-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 63 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38927-exam-az-104-topic-5-question-63-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 64 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/29470-exam-az-104-topic-5-question-64-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 65 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63162-exam-az-104-topic-5-question-65-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 66 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51691-exam-az-104-topic-5-question-66-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 67 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51363-exam-az-104-topic-5-question-67-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 68 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51535-exam-az-104-topic-5-question-68-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 69 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/25017-exam-az-104-topic-5-question-69-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 70 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39279-exam-az-104-topic-5-question-70-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 71 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53916-exam-az-104-topic-5-question-71-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 72 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53918-exam-az-104-topic-5-question-72-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 73 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53919-exam-az-104-topic-5-question-73-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 74 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/53920-exam-az-104-topic-4-question-80-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 75 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/54730-exam-az-104-topic-5-question-75-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 76 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63169-exam-az-104-topic-5-question-76-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 77 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63183-exam-az-104-topic-5-question-77-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 78 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63084-exam-az-104-topic-5-question-78-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 79 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63586-exam-az-104-topic-5-question-79-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 80 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63005-exam-az-104-topic-5-question-80-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 81 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63152-exam-az-104-topic-5-question-81-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 82 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63010-exam-az-104-topic-5-question-82-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 83 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63014-exam-az-104-topic-5-question-83-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 84 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63382-exam-az-104-topic-5-question-92-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 85 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67626-exam-az-104-topic-5-question-85-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 86 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67627-exam-az-104-topic-5-question-86-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 87 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67527-exam-az-104-topic-5-question-87-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 88 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39002-exam-az-104-topic-5-question-88-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 89 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38890-exam-az-104-topic-5-question-89-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 90 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38740-exam-az-104-topic-5-question-90-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 91 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73971-exam-az-104-topic-5-question-91-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 92 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78361-exam-az-104-topic-5-question-92-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 93 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78995-exam-az-104-topic-5-question-93-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 94 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78382-exam-az-104-topic-5-question-94-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 95 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78505-exam-az-104-topic-5-question-95-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 96 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38454-exam-az-104-topic-5-question-96-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 97 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74142-exam-az-104-topic-5-question-97-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 98 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26670-exam-az-104-topic-5-question-98-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 99 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39007-exam-az-104-topic-5-question-99-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 100 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78341-exam-az-104-topic-5-question-100-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 101 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79051-exam-az-104-topic-5-question-101-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 102 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94060-exam-az-104-topic-5-question-102-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 103 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94054-exam-az-104-topic-5-question-103-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 104 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93834-exam-az-104-topic-5-question-104-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 105 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94053-exam-az-104-topic-5-question-105-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 106 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93953-exam-az-104-topic-5-question-106-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 107 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94289-exam-az-104-topic-5-question-107-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 108 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94077-exam-az-104-topic-5-question-108-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 109 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94044-exam-az-104-topic-5-question-109-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 110 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94014-exam-az-104-topic-5-question-110-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 111 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94424-exam-az-104-topic-5-question-111-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 112 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94048-exam-az-104-topic-5-question-112-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 113 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94069-exam-az-104-topic-5-question-113-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 114 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93855-exam-az-104-topic-5-question-114-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 115 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95679-exam-az-104-topic-5-question-115-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 116 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95628-exam-az-104-topic-5-question-116-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 117 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100011-exam-az-104-topic-5-question-117-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 118 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98341-exam-az-104-topic-5-question-118-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 119 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100166-exam-az-104-topic-5-question-119-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 120 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102266-exam-az-104-topic-5-question-120-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 121 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102357-exam-az-104-topic-5-question-121-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 122 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/108484-exam-az-104-topic-5-question-122-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 123 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/108633-exam-az-104-topic-5-question-123-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 124 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/108635-exam-az-104-topic-5-question-124-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 125 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/108603-exam-az-104-topic-5-question-125-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 126 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113292-exam-az-104-topic-5-question-126-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 127 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113682-exam-az-104-topic-5-question-127-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 128 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113375-exam-az-104-topic-5-question-128-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 129 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113293-exam-az-104-topic-5-question-129-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 130 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113376-exam-az-104-topic-5-question-130-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 131 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113065-exam-az-104-topic-5-question-131-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 132 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113100-exam-az-104-topic-5-question-132-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 133 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113069-exam-az-104-topic-5-question-133-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 134 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113103-exam-az-104-topic-5-question-134-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 135 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119667-exam-az-104-topic-5-question-135-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 136 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119641-exam-az-104-topic-5-question-136-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 137 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119668-exam-az-104-topic-5-question-137-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 138 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119956-exam-az-104-topic-5-question-138-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 139 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/121819-exam-az-104-topic-5-question-139-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 140 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119784-exam-az-104-topic-5-question-140-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 141 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119601-exam-az-104-topic-5-question-141-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 142 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119715-exam-az-104-topic-5-question-142-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 143 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/120891-exam-az-104-topic-5-question-143-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 144 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119716-exam-az-104-topic-5-question-144-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 145 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119607-exam-az-104-topic-5-question-145-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 146 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125321-exam-az-104-topic-5-question-146-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 147 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125124-exam-az-104-topic-5-question-147-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 148 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/129668-exam-az-104-topic-5-question-148-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 149 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/129669-exam-az-104-topic-5-question-149-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 5 question 150 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/129750-exam-az-104-topic-5-question-150-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 6": [
+        {
+            "title": "Exam AZ-104 topic 6 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39044-exam-az-104-topic-6-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 2 question 6 discussion - Questão Não Encontrada no Google",
+            "link": "/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39690-exam-az-104-topic-6-question-3-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 4 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39045-exam-az-104-topic-6-question-4-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 5 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51348-exam-az-104-topic-6-question-5-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 6 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38893-exam-az-104-topic-6-question-6-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 7 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67529-exam-az-104-topic-6-question-7-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 8 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67686-exam-az-104-topic-6-question-8-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 9 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/38892-exam-az-104-topic-6-question-9-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 10 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34970-exam-az-104-topic-6-question-10-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 11 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74076-exam-az-104-topic-6-question-11-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 12 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73975-exam-az-104-topic-6-question-12-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 13 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75822-exam-az-104-topic-6-question-13-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 14 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39196-exam-az-104-topic-6-question-14-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 15 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79003-exam-az-104-topic-6-question-15-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 16 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51672-exam-az-104-topic-6-question-16-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 17 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51529-exam-az-104-topic-6-question-17-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 18 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41752-exam-az-104-topic-6-question-18-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 19 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51774-exam-az-104-topic-6-question-19-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 20 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/26765-exam-az-104-topic-6-question-20-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 21 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80087-exam-az-104-topic-6-question-21-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 22 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78396-exam-az-104-topic-6-question-22-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 23 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80280-exam-az-104-topic-6-question-23-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 24 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79328-exam-az-104-topic-6-question-24-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 25 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79331-exam-az-104-topic-6-question-25-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 26 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78899-exam-az-104-topic-6-question-26-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 27 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80286-exam-az-104-topic-6-question-27-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 28 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79374-exam-az-104-topic-6-question-28-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 29 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79025-exam-az-104-topic-6-question-29-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 30 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79396-exam-az-104-topic-6-question-30-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 31 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79917-exam-az-104-topic-6-question-31-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 32 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78600-exam-az-104-topic-6-question-32-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 33 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78351-exam-az-104-topic-6-question-33-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 34 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78336-exam-az-104-topic-6-question-34-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 35 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93847-exam-az-104-topic-6-question-35-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 36 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94174-exam-az-104-topic-6-question-36-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 37 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94175-exam-az-104-topic-6-question-37-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 38 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93851-exam-az-104-topic-6-question-38-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 39 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93852-exam-az-104-topic-6-question-39-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 40 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94058-exam-az-104-topic-6-question-40-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 41 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94002-exam-az-104-topic-6-question-41-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 42 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95894-exam-az-104-topic-6-question-42-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 43 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95816-exam-az-104-topic-6-question-43-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 44 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96004-exam-az-104-topic-6-question-44-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 45 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95613-exam-az-104-topic-6-question-45-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 46 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95616-exam-az-104-topic-6-question-46-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 47 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98367-exam-az-104-topic-6-question-47-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 48 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/108480-exam-az-104-topic-6-question-48-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 49 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119843-exam-az-104-topic-6-question-49-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 50 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/120224-exam-az-104-topic-6-question-50-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 51 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119547-exam-az-104-topic-6-question-51-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 52 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119556-exam-az-104-topic-6-question-52-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 53 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/120083-exam-az-104-topic-6-question-53-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 54 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/122479-exam-az-104-topic-6-question-54-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 55 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/121826-exam-az-104-topic-6-question-55-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 56 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/121828-exam-az-104-topic-6-question-56-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 57 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/121829-exam-az-104-topic-6-question-57-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 58 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/121830-exam-az-104-topic-6-question-58-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 59 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125048-exam-az-104-topic-6-question-59-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 60 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125036-exam-az-104-topic-6-question-60-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 6 question 61 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/125037-exam-az-104-topic-6-question-61-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 7": [
+        {
+            "title": "Exam AZ-104 topic 7 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51838-exam-az-104-topic-7-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 7 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41444-exam-az-104-topic-7-question-2-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 8": [
+        {
+            "title": "Exam AZ-104 topic 8 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80794-exam-az-104-topic-8-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 8 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79300-exam-az-104-topic-8-question-2-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 9": [
+        {
+            "title": "Exam AZ-104 topic 9 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/67601-exam-az-104-topic-9-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 9 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79686-exam-az-104-topic-9-question-2-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 10": [
+        {
+            "title": "Exam AZ-104 topic 10 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/29475-exam-az-104-topic-10-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 10 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/29793-exam-az-104-topic-10-question-2-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 10 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39579-exam-az-104-topic-10-question-3-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 11": [
+        {
+            "title": "Exam AZ-104 topic 11 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62873-exam-az-104-topic-11-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 11 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63503-exam-az-104-topic-11-question-2-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 11 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79839-exam-az-104-topic-11-question-3-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 12": [
+        {
+            "title": "Exam AZ-104 topic 12 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57055-exam-az-104-topic-12-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 12 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64842-exam-az-140-topic-12-question-2-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 13": [
+        {
+            "title": "Exam AZ-104 topic 13 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63246-exam-az-104-topic-13-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 13 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57017-exam-az-104-topic-13-question-2-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 14": [
+        {
+            "title": "Exam AZ-104 topic 14 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/40101-exam-az-104-topic-14-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 14 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/41639-exam-az-104-topic-14-question-2-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 15": [
+        {
+            "title": "Exam AZ-104 topic 15 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79430-exam-az-104-topic-15-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 15 question 2 discussion - Questão Não Encontrada no Google",
+            "link": "/"
+        },
+        {
+            "title": "Exam AZ-104 topic 15 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79846-exam-az-104-topic-15-question-3-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 15 question 4 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/94277-exam-az-104-topic-15-question-4-discussion/"
+        }
+    ],
+    "AZ-104 | ExamTopics | Topic 16": [
+        {
+            "title": "Exam AZ-104 topic 16 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57418-exam-az-104-topic-16-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-104 topic 16 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57018-exam-az-104-topic-16-question-2-discussion/"
+        }
+    ]
+}
