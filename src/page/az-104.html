@@ -6,93 +6,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simulado da Microsoft Azure AZ-104</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        .topicos {
-            margin-top: 130px;
-            margin-bottom: 130px;
-        }
-
-        header {
-            position: fixed;
-            top: 0;
-            padding-top: 20px;
-            padding-bottom: 20px;
-            width: 100%;
-            height: auto;
-            z-index: 1000;
-            background-color: #fff;
-        }
-
-        footer {
-            position: fixed;
-            bottom: 0;
-            padding-top: 10px;
-            padding-bottom: 20px;
-            width: 100%;
-            height: auto;
-            z-index: 1000;
-            background-color: #fff;
-        }
-
-        @media (max-width: 768px) {
-            h1 {
-                font-size: 1.5rem;
-            }
-
-            header,
-            footer {
-                padding-top: 10px;
-                padding-bottom: 10px;
-            }
-
-            .topicos {
-                margin-top: 120px;
-                margin-bottom: 170px;
-            }
-
-            footer .d-flex>div {
-                flex: 0 0 100%;
-                margin-bottom: 10px;
-            }
-
-            footer .d-flex {
-                flex-direction: column;
-                align-items: center;
-            }
-
-            footer .d-flex>div:last-child {
-                margin-bottom: 0;
-            }
-        }
-    </style>
+    <link href="../css/custom-page.css" rel="stylesheet">
 </head>
-<header>
-    <div class="container">
-        <h1 id="tituloPagina"></h1>
-        <h6 id="descricaoProgresso"></h6>
-    </div>
-</header>
-<footer>
-    <div class="container">
-        <div class="d-flex justify-content-between mt-3">
-            <div>
-                <button id="btnLimpar" class="btn btn-danger" onclick="limparLocalStorage()">Reiniciar o
-                    Progresso</button>
-            </div>
-            <div>
-                <button id="btnAnterior" class="btn btn-primary" onclick="paginaAnterior()">Anterior</button>
-                <!-- Botão Home adicionado aqui -->
-                <button id="btnHome" class="btn btn-primary" onclick="confirmarVoltarHome()">Home</button>
-                <button id="btnProxima" class="btn btn-primary" onclick="proximaPagina()">Próxima</button>
-            </div>
-            <div>
-                <div id="infoPagina" class="text-right"></div>
-            </div>
-        </div>
-    </div>
-</footer>
 
 <body>
+    <header>
+        <div class="container">
+            <h1 id="tituloPagina"></h1>
+            <h6 id="descricaoProgresso"></h6>
+        </div>
+    </header>
+
     <div class="container topicos mt-6">
         <div id="topicos" class="list-group mt-3"></div>
     </div>
@@ -205,7 +129,7 @@
                 descricaoProgresso.textContent = textoDescricao;
             }
 
-            window.limparLocalStorage = function() {
+            window.limparLocalStorage = function () {
                 $('#confirmacaoModal').modal('show');
             };
 
@@ -213,7 +137,7 @@
             window.paginaAnterior = paginaAnterior;
 
             // Função para confirmar volta ao menu principal
-            window.confirmarVoltarHome = function() {
+            window.confirmarVoltarHome = function () {
                 $('#voltarHomeModal').modal('show');
             };
 
@@ -271,6 +195,26 @@
 
         iniciar();
     </script>
+
+    <footer>
+        <div class="container">
+            <div class="d-flex justify-content-between mt-3">
+                <div>
+                    <button id="btnLimpar" class="btn btn-danger" onclick="limparLocalStorage()">Reiniciar o
+                        Progresso</button>
+                </div>
+                <div>
+                    <button id="btnAnterior" class="btn btn-primary" onclick="paginaAnterior()">Anterior</button>
+                    <!-- Botão Home adicionado aqui -->
+                    <button id="btnHome" class="btn btn-primary" onclick="confirmarVoltarHome()">Home</button>
+                    <button id="btnProxima" class="btn btn-primary" onclick="proximaPagina()">Próxima</button>
+                </div>
+                <div>
+                    <div id="infoPagina" class="text-right"></div>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
 
 </html>
