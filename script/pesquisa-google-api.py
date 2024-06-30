@@ -7,8 +7,8 @@ from openpyxl.styles import Font
 def pesquisar_google_api(query_pesquisa):
     url_da_api = "https://www.googleapis.com/customsearch/v1"
     parametros = {
-        "key": "AIzaSyBR8WH6whkKYXYF8uaIdBjqKV0hYdUClHE",
-        "cx": "66a59a5d64de449a9",
+        "key": "SUA KEY AQUI",
+        "cx": "SUA CAIXA AQUI",
         "q": query_pesquisa
     }
     
