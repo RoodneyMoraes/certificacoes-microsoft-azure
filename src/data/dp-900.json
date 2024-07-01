@@ -1,4 +1,1209 @@
 {
     "title": "Simulado da Microsoft Azure - DP-900",
-    "DP-900 | ExamTopics | Topic 1": []
+    "DP-900 | ExamTopics | Topic 1": [
+        {
+            "title": "Exam DP-900 topic 1 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34472-exam-dp-900-topic-1-question-1-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 78 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49664-exam-dp-900-topic-1-question-78-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73920-exam-dp-900-topic-1-question-3-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 4 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78935-exam-dp-900-topic-1-question-4-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 5 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30634-exam-dp-900-topic-1-question-5-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 6 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63839-exam-dp-900-topic-1-question-6-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 7 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34081-exam-dp-900-topic-1-question-7-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 8 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49714-exam-dp-900-topic-1-question-8-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 9 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34325-exam-dp-900-topic-1-question-9-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 10 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34326-exam-dp-900-topic-1-question-10-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 11 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49148-exam-dp-900-topic-1-question-11-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 12 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48682-exam-dp-900-topic-1-question-12-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 13 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48809-exam-dp-900-topic-1-question-13-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 14 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49379-exam-dp-900-topic-1-question-14-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 15 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49678-exam-dp-900-topic-1-question-15-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 16 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45545-exam-dp-900-topic-1-question-16-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 17 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73988-exam-dp-900-topic-1-question-17-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 18 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78971-exam-dp-900-topic-1-question-18-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 19 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63686-exam-dp-900-topic-1-question-19-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 20 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49508-exam-dp-900-topic-1-question-20-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 21 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48659-exam-dp-900-topic-1-question-21-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 22 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48938-exam-dp-900-topic-1-question-22-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 23 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49497-exam-dp-900-topic-1-question-23-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 24 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49116-exam-dp-900-topic-1-question-24-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 25 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62903-exam-dp-900-topic-1-question-25-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 26 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63355-exam-dp-900-topic-1-question-26-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 27 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63840-exam-dp-900-topic-1-question-27-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 28 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63828-exam-dp-900-topic-1-question-28-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 29 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73982-exam-dp-900-topic-1-question-29-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 30 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64587-exam-dp-900-topic-1-question-30-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 31 discussion - Questão Não Encontrada no Google",
+            "link": "/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 32 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64727-exam-dp-900-topic-1-question-32-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 33 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64787-exam-dp-900-topic-1-question-33-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 34 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64684-exam-dp-900-topic-1-question-34-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 35 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64625-exam-dp-900-topic-1-question-35-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 36 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64627-exam-dp-900-topic-1-question-36-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 137 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74447-exam-dp-900-topic-1-question-137-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 38 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64940-exam-dp-900-topic-1-question-38-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 39 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64869-exam-dp-900-topic-1-question-39-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 96 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74267-exam-dp-900-topic-1-question-96-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 41 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64941-exam-dp-900-topic-1-question-41-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 42 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74337-exam-dp-900-topic-1-question-42-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 43 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44053-exam-az-900-topic-1-question-43-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 44 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74338-exam-dp-900-topic-1-question-44-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 45 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74207-exam-dp-900-topic-1-question-45-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 46 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74426-exam-dp-900-topic-1-question-46-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 47 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73896-exam-dp-900-topic-1-question-47-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 48 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74063-exam-dp-900-topic-1-question-48-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 49 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73991-exam-dp-900-topic-1-question-49-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 50 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78972-exam-dp-900-topic-1-question-50-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 51 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78820-exam-dp-900-topic-1-question-51-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 52 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79656-exam-dp-900-topic-1-question-52-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 53 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78967-exam-dp-900-topic-1-question-53-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 54 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79658-exam-dp-900-topic-1-question-54-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 55 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81348-exam-dp-900-topic-1-question-55-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 56 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81230-exam-dp-900-topic-1-question-56-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 57 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78969-exam-dp-900-topic-1-question-57-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 58 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78826-exam-dp-900-topic-1-question-58-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 59 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79659-exam-dp-900-topic-1-question-59-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 60 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79660-exam-dp-900-topic-1-question-60-discussion/"
+        },
+        {
+            "title": "Exam PL-900 topic 1 question 61 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49833-exam-pl-900-topic-1-question-61-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 62 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34329-exam-dp-900-topic-1-question-62-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 63 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/35827-exam-dp-900-topic-1-question-63-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 64 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30900-exam-dp-900-topic-1-question-64-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 65 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/39083-exam-dp-900-topic-1-question-65-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 66 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43849-exam-dp-900-topic-1-question-66-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 67 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45543-exam-dp-900-topic-1-question-67-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 68 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74211-exam-dp-900-topic-1-question-68-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 69 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79661-exam-dp-900-topic-1-question-69-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 70 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49502-exam-dp-900-topic-1-question-70-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 71 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30663-exam-dp-900-topic-1-question-71-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 72 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62913-exam-dp-900-topic-1-question-72-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 73 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30664-exam-dp-900-topic-1-question-48-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 74 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/40315-exam-dp-900-topic-1-question-74-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 75 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/40316-exam-dp-900-topic-1-question-75-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 76 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62916-exam-dp-900-topic-1-question-76-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 77 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62917-exam-dp-900-topic-1-question-77-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 78 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49664-exam-dp-900-topic-1-question-78-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 79 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49988-exam-dp-900-topic-1-question-79-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 80 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49989-exam-dp-900-topic-1-question-80-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 81 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74217-exam-dp-900-topic-1-question-81-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 82 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49512-exam-dp-900-topic-1-question-82-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 83 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49457-exam-dp-900-topic-1-question-83-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 84 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63741-exam-dp-900-topic-1-question-84-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 85 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62924-exam-dp-900-topic-1-question-85-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 86 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37908-exam-dp-900-topic-1-question-31-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 87 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34331-exam-dp-900-topic-1-question-87-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 88 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30906-exam-dp-900-topic-1-question-88-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 89 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30666-exam-dp-900-topic-1-question-29-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 90 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30667-exam-dp-900-topic-1-question-90-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 91 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30668-exam-dp-900-topic-1-question-91-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 92 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30512-exam-dp-900-topic-1-question-92-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 93 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30899-exam-dp-900-topic-1-question-93-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 94 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34327-exam-dp-900-topic-1-question-94-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 95 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34328-exam-dp-900-topic-1-question-95-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 96 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74267-exam-dp-900-topic-1-question-96-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 97 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74234-exam-dp-900-topic-1-question-97-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 98 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74236-exam-dp-900-topic-1-question-98-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 99 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78978-exam-dp-900-topic-1-question-99-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 100 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78979-exam-dp-900-topic-1-question-100-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 101 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78980-exam-dp-900-topic-1-question-101-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 102 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78981-exam-dp-900-topic-1-question-102-discussion/"
+        },
+        {
+            "title": "Exam PL-900 topic 1 question 103 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82223-exam-pl-900-topic-1-question-103-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 104 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78983-exam-dp-900-topic-1-question-104-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 105 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78984-exam-dp-900-topic-1-question-105-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 106 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78985-exam-dp-900-topic-1-question-106-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 107 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65028-exam-dp-900-topic-1-question-107-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 108 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83925-exam-dp-900-topic-1-question-108-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 109 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74239-exam-dp-900-topic-1-question-109-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 110 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30092-exam-dp-900-topic-1-question-110-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 111 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30970-exam-dp-900-topic-1-question-111-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 112 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30971-exam-dp-900-topic-1-question-112-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 113 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31545-exam-dp-900-topic-1-question-113-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 114 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30972-exam-dp-900-topic-1-question-114-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 115 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/32690-exam-dp-900-topic-1-question-115-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 116 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30231-exam-dp-900-topic-1-question-116-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 117 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49721-exam-dp-900-topic-1-question-117-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 118 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49312-exam-dp-900-topic-1-question-118-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 119 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49722-exam-dp-900-topic-1-question-119-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 120 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49665-exam-dp-900-topic-1-question-120-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 121 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49514-exam-dp-900-topic-1-question-121-discussion/"
+        },
+        {
+            "title": "Exam PL-900 topic 1 question 122 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30314-exam-pl-900-topic-1-question-122-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 123 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63535-exam-dp-900-topic-1-question-123-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 124 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64608-exam-dp-900-topic-1-question-124-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 125 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64421-exam-dp-900-topic-1-question-125-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 126 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65004-exam-dp-900-topic-1-question-126-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 127 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63298-exam-dp-900-topic-1-question-96-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 128 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30516-exam-dp-900-topic-1-question-128-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 129 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30931-exam-dp-900-topic-1-question-129-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 130 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45085-exam-dp-900-topic-1-question-130-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 131 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49513-exam-dp-900-topic-1-question-131-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 132 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43724-exam-dp-900-topic-1-question-132-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 133 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44582-exam-dp-900-topic-1-question-133-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 134 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/43848-exam-dp-900-topic-2-question-2-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 135 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65764-exam-dp-900-topic-1-question-135-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 136 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34532-exam-dp-900-topic-1-question-67-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 137 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74447-exam-dp-900-topic-1-question-137-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 138 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30671-exam-dp-900-topic-1-question-34-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 139 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83230-exam-dp-900-topic-1-question-139-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 140 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74448-exam-dp-900-topic-1-question-120-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 141 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/34106-exam-dp-900-topic-1-question-141-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 142 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74449-exam-dp-900-topic-1-question-142-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 143 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/32507-exam-dp-900-topic-1-question-143-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 144 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/36231-exam-dp-900-topic-1-question-144-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 145 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64432-exam-dp-900-topic-1-question-125-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 146 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74450-exam-dp-900-topic-1-question-146-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 147 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74451-exam-dp-900-topic-1-question-147-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 148 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33322-exam-dp-900-topic-1-question-148-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 149 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74452-exam-dp-900-topic-1-question-149-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 150 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73917-exam-dp-900-topic-1-question-150-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 151 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30295-exam-dp-900-topic-1-question-151-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 152 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74453-exam-dp-900-topic-1-question-152-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 153 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/30551-exam-dp-900-topic-1-question-153-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 154 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65009-exam-dp-900-topic-1-question-154-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 155 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49668-exam-dp-900-topic-1-question-155-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 156 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64908-exam-dp-900-topic-1-question-156-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 157 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/37474-exam-dp-900-topic-1-question-84-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 158 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74455-exam-dp-900-topic-1-question-158-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 159 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74456-exam-dp-900-topic-1-question-159-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 160 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/62968-exam-dp-900-topic-1-question-160-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 161 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49448-exam-dp-900-topic-1-question-161-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 162 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74457-exam-dp-900-topic-1-question-162-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 163 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65766-exam-dp-900-topic-1-question-143-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 164 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49667-exam-dp-900-topic-1-question-88-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 165 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73918-exam-dp-900-topic-1-question-165-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 166 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49730-exam-dp-900-topic-1-question-166-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 167 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44189-exam-dp-900-topic-1-question-167-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 168 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49452-exam-dp-900-topic-1-question-168-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 169 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74460-exam-dp-900-topic-1-question-169-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 170 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33959-exam-dp-900-topic-1-question-170-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 171 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/31065-exam-dp-900-topic-1-question-171-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 172 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/33192-exam-dp-900-topic-1-question-96-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 173 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64616-exam-dp-900-topic-1-question-173-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 174 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74462-exam-dp-900-topic-1-question-154-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 175 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74601-exam-dp-900-topic-1-question-175-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 176 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74463-exam-dp-900-topic-1-question-176-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 177 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115624-exam-sc-900-topic-1-question-177-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 178 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78809-exam-dp-900-topic-1-question-178-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 179 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78811-exam-dp-900-topic-1-question-179-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 180 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/46384-exam-az-900-topic-1-question-180-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 181 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78810-exam-dp-900-topic-1-question-181-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 182 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/69479-exam-az-900-topic-1-question-182-discussion/"
+        },
+        {
+            "title": "Discuss Exam DP-900 Topic 1 Question 183 Discussion | Actual4test",
+            "link": "https://www.actual4test.com/discussions/Microsoft/exam-dp-900-topic-1-question-183-discussion-p1021621.html"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 184 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/140867-exam-dp-900-topic-1-question-184-discussion/"
+        },
+        {
+            "title": "Exam PL-900 topic 1 question 185 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49544-exam-pl-900-topic-1-question-185-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 186 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80654-exam-dp-900-topic-1-question-186-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 187 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78808-exam-dp-900-topic-1-question-187-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 188 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80655-exam-dp-900-topic-1-question-188-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 189 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80656-exam-dp-900-topic-1-question-189-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 190 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80451-exam-dp-900-topic-1-question-190-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 191 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80657-exam-dp-900-topic-1-question-191-discussion/"
+        },
+        {
+            "title": "Exam PL-900 topic 1 question 192 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95950-exam-pl-900-topic-1-question-192-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 193 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51980-exam-az-900-topic-1-question-193-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 194 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78804-exam-dp-900-topic-1-question-194-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 195 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78805-exam-dp-900-topic-1-question-195-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 196 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80660-exam-dp-900-topic-1-question-196-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 197 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79392-exam-dp-900-topic-1-question-197-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 291 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139371-exam-dp-900-topic-1-question-291-discussion/"
+        },
+        {
+            "title": "Exam PL-900 topic 1 question 199 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80680-exam-pl-900-topic-1-question-199-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 200 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80662-exam-dp-900-topic-1-question-200-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 201 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79207-exam-dp-900-topic-1-question-201-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 202 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78797-exam-dp-900-topic-1-question-202-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 203 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78798-exam-dp-900-topic-1-question-203-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 204 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80671-exam-dp-900-topic-1-question-204-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 205 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78799-exam-dp-900-topic-1-question-205-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 206 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78931-exam-dp-900-topic-1-question-206-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 207 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78929-exam-dp-900-topic-1-question-207-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 208 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78928-exam-dp-900-topic-1-question-208-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 209 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80672-exam-dp-900-topic-1-question-209-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 210 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78927-exam-dp-900-topic-1-question-210-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 211 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78920-exam-dp-900-topic-1-question-211-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 212 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78919-exam-dp-900-topic-1-question-212-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 213 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78886-exam-dp-900-topic-1-question-213-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 214 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80673-exam-dp-900-topic-1-question-214-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 215 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78918-exam-dp-900-topic-1-question-215-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 216 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78915-exam-dp-900-topic-1-question-216-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 217 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80676-exam-dp-900-topic-1-question-217-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 218 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78914-exam-dp-900-topic-1-question-218-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 219 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78889-exam-dp-900-topic-1-question-219-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 220 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78888-exam-dp-900-topic-1-question-220-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 221 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78775-exam-dp-900-topic-1-question-221-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 222 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82851-exam-dp-900-topic-1-question-222-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 223 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79442-exam-dp-900-topic-1-question-223-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 224 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82498-exam-dp-900-topic-1-question-224-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 225 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80678-exam-dp-900-topic-1-question-225-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 226 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80679-exam-dp-900-topic-1-question-226-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 227 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97389-exam-dp-900-topic-1-question-227-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 228 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63192-exam-az-900-topic-1-question-228-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 229 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96055-exam-dp-900-topic-1-question-229-discussion/"
+        },
+        {
+            "title": "Exam PL-900 topic 1 question 230 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97230-exam-pl-900-topic-1-question-230-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 231 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97440-exam-dp-900-topic-1-question-231-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 232 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/97248-exam-dp-900-topic-1-question-232-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 233 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/50274-exam-ms-900-topic-1-question-210-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 234 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96808-exam-dp-900-topic-1-question-234-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 235 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55837-exam-ms-900-topic-1-question-235-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 236 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/96057-exam-dp-900-topic-1-question-236-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 237 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98479-exam-dp-900-topic-1-question-237-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 238 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98316-exam-dp-900-topic-1-question-238-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 239 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98879-exam-dp-900-topic-1-question-239-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 240 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99386-exam-dp-900-topic-1-question-240-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 241 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100465-exam-dp-900-topic-1-question-241-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 242 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99090-exam-dp-900-topic-1-question-242-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 243 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/101024-exam-dp-900-topic-1-question-243-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 244 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98481-exam-dp-900-topic-1-question-244-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 245 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100803-exam-dp-900-topic-1-question-245-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 246 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98484-exam-dp-900-topic-1-question-246-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 247 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98880-exam-dp-900-topic-1-question-247-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 248 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98485-exam-dp-900-topic-1-question-248-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 249 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99420-exam-dp-900-topic-1-question-249-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 250 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102720-exam-dp-900-topic-1-question-250-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 251 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/102168-exam-dp-900-topic-1-question-251-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 252 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/98483-exam-dp-900-topic-1-question-252-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 253 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/104005-exam-dp-900-topic-1-question-253-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 254 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/99081-exam-dp-900-topic-1-question-254-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 255 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/103911-exam-dp-900-topic-1-question-255-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 256 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/11867-exam-az-900-topic-1-question-256-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 257 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/118326-exam-dp-900-topic-1-question-257-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 258 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/112657-exam-dp-900-topic-1-question-258-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 259 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/117417-exam-dp-900-topic-1-question-259-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 260 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/123437-exam-dp-900-topic-1-question-260-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 261 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113657-exam-dp-900-topic-1-question-261-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 262 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113658-exam-dp-900-topic-1-question-262-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 263 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/112658-exam-dp-900-topic-1-question-263-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 264 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/118364-exam-dp-900-topic-1-question-264-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 265 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/119476-exam-dp-900-topic-1-question-265-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 266 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115728-exam-dp-900-topic-1-question-266-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 267 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115729-exam-dp-900-topic-1-question-267-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 268 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/126482-exam-dp-900-topic-1-question-268-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 269 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/5555-exam-az-900-topic-1-question-269-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 270 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/126483-exam-dp-900-topic-1-question-270-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 271 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/126484-exam-dp-900-topic-1-question-271-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 272 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/126485-exam-dp-900-topic-1-question-272-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 273 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127002-exam-dp-900-topic-1-question-273-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 274 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127003-exam-dp-900-topic-1-question-274-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 275 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/126487-exam-dp-900-topic-1-question-275-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 276 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127004-exam-dp-900-topic-1-question-276-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 277 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127005-exam-dp-900-topic-1-question-277-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 278 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127006-exam-dp-900-topic-1-question-278-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 279 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127007-exam-dp-900-topic-1-question-279-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 280 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127008-exam-dp-900-topic-1-question-280-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 281 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127009-exam-dp-900-topic-1-question-281-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 282 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127010-exam-dp-900-topic-1-question-282-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 283 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127011-exam-dp-900-topic-1-question-283-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 284 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127012-exam-dp-900-topic-1-question-284-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 285 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127014-exam-dp-900-topic-1-question-285-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 286 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127015-exam-dp-900-topic-1-question-286-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 287 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/133743-exam-dp-900-topic-1-question-287-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 288 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127017-exam-dp-900-topic-1-question-288-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 289 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127018-exam-dp-900-topic-1-question-289-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 290 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/127019-exam-dp-900-topic-1-question-290-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 291 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139371-exam-dp-900-topic-1-question-291-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 292 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55431-exam-ms-900-topic-1-question-292-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 293 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139430-exam-dp-900-topic-1-question-293-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 294 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139432-exam-dp-900-topic-1-question-294-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 295 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44454-exam-az-900-topic-1-question-295-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 296 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139722-exam-dp-900-topic-1-question-296-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 297 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139372-exam-dp-900-topic-1-question-297-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 298 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139231-exam-dp-900-topic-1-question-298-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 299 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/46624-exam-az-900-topic-1-question-299-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 300 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/140337-exam-dp-900-topic-1-question-300-discussion/"
+        },
+        {
+            "title": "Exam DP-900 topic 1 question 301 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139234-exam-dp-900-topic-1-question-301-discussion/"
+        }
+    ]
 }

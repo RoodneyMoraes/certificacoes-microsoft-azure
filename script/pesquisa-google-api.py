@@ -39,8 +39,8 @@ def salvar_em_csv(resultados, nome_arquivo="resultados.csv"):
 if __name__ == "__main__":
     resultados = []
 
-    for i in range(1, 101):
-        query_pesquisa = f"examtopics ai-900 topic 1 question {i}"
+    for i in range(201, 301):
+        query_pesquisa = f"examtopics DP-900 topic 1 question {i}"
         titulo, link = pesquisar_google_api(query_pesquisa)
         resultados.append((titulo, link))
         print(f"Processado: questão {i}.")
