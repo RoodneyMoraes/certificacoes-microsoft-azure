@@ -1,4 +1,841 @@
 {
     "title": "Simulado da Microsoft Azure - SC-900",
-    "SC-900 | ExamTopics | Topic 1": []
+    "SC-900 | ExamTopics | Topic 1": [
+        {
+            "title": "Exam SC-900 topic 1 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56710-exam-sc-900-topic-1-question-1-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57189-exam-sc-900-topic-1-question-2-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56411-exam-sc-900-topic-1-question-3-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 184 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115622-exam-sc-900-topic-1-question-184-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 5 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57191-exam-sc-900-topic-1-question-5-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 184 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115622-exam-sc-900-topic-1-question-184-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 7 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57322-exam-sc-900-topic-1-question-7-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 8 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57192-exam-sc-900-topic-1-question-8-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 9 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57193-exam-sc-900-topic-1-question-9-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 10 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57194-exam-sc-900-topic-1-question-10-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 11 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57323-exam-sc-900-topic-1-question-11-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 12 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57195-exam-sc-900-topic-1-question-12-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 13 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57196-exam-sc-900-topic-1-question-13-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 14 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64694-exam-sc-900-topic-1-question-14-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 15 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65148-exam-sc-900-topic-1-question-15-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 162 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/111525-exam-sc-900-topic-1-question-162-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 17 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64675-exam-sc-900-topic-1-question-17-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 18 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64856-exam-sc-900-topic-1-question-18-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 19 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64905-exam-sc-900-topic-1-question-19-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 20 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79876-exam-sc-900-topic-1-question-20-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 21 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64864-exam-sc-900-topic-1-question-21-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 22 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64907-exam-sc-900-topic-1-question-22-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 23 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74074-exam-sc-900-topic-1-question-23-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 24 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74283-exam-sc-900-topic-1-question-24-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 25 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79444-exam-sc-900-topic-1-question-25-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 26 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79877-exam-sc-900-topic-1-question-26-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 27 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79894-exam-sc-900-topic-1-question-27-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 28 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56639-exam-sc-900-topic-1-question-28-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 29 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81421-exam-sc-900-topic-1-question-29-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 30 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57199-exam-sc-900-topic-1-question-30-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 31 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57200-exam-sc-900-topic-1-question-31-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 32 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57201-exam-sc-900-topic-1-question-18-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 33 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57202-exam-sc-900-topic-1-question-33-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 34 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57203-exam-sc-900-topic-1-question-34-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 35 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57205-exam-sc-900-topic-1-question-35-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 36 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57206-exam-sc-900-topic-1-question-36-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 37 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57207-exam-sc-900-topic-1-question-37-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 38 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57208-exam-sc-900-topic-1-question-38-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 39 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57209-exam-sc-900-topic-1-question-39-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 40 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57210-exam-sc-900-topic-1-question-40-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 41 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60458-exam-sc-900-topic-1-question-41-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 42 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64653-exam-sc-900-topic-1-question-42-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 43 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65063-exam-sc-900-topic-1-question-43-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 44 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65150-exam-sc-900-topic-1-question-44-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 45 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65064-exam-sc-900-topic-1-question-40-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 46 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64654-exam-sc-900-topic-1-question-46-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 47 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65151-exam-sc-900-topic-1-question-47-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 48 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74284-exam-sc-900-topic-1-question-48-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 49 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74285-exam-sc-900-topic-1-question-49-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 50 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73899-exam-sc-900-topic-1-question-50-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 51 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74487-exam-sc-900-topic-1-question-51-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 52 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73883-exam-sc-900-topic-1-question-52-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 53 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79071-exam-sc-900-topic-1-question-53-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 54 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81424-exam-sc-900-topic-1-question-54-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 55 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78657-exam-sc-900-topic-1-question-55-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 56 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81426-exam-sc-900-topic-1-question-56-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 57 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57910-exam-sc-900-topic-1-question-57-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 58 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/73900-exam-sc-900-topic-1-question-58-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 59 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57911-exam-sc-900-topic-1-question-59-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 60 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61261-exam-sc-900-topic-1-question-60-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 61 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58021-exam-sc-900-topic-1-question-61-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 62 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61452-exam-sc-900-topic-1-question-62-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 63 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60401-exam-sc-900-topic-1-question-63-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 64 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/60400-exam-sc-900-topic-1-question-64-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 65 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65152-exam-sc-900-topic-1-question-65-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 66 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80016-exam-sc-900-topic-1-question-66-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 67 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64754-exam-sc-900-topic-1-question-67-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 68 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64760-exam-sc-900-topic-1-question-62-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 69 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65153-exam-sc-900-topic-1-question-69-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 70 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65154-exam-sc-900-topic-1-question-70-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 71 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64974-exam-sc-900-topic-1-question-71-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 72 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82232-exam-sc-900-topic-1-question-72-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 73 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75003-exam-sc-900-topic-1-question-73-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 74 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64744-exam-sc-900-topic-1-question-74-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 75 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57211-exam-sc-900-topic-1-question-75-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 76 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57169-exam-sc-900-topic-1-question-76-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 77 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74287-exam-sc-900-topic-1-question-71-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 78 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74286-exam-sc-900-topic-1-question-78-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 79 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74288-exam-sc-900-topic-1-question-79-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 80 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84486-exam-sc-900-topic-1-question-80-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 81 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78736-exam-sc-900-topic-1-question-81-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 82 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78627-exam-sc-900-topic-1-question-82-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 83 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79312-exam-sc-900-topic-1-question-83-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 84 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84223-exam-sc-900-topic-1-question-84-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 85 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/86570-exam-sc-900-topic-1-question-85-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 86 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82248-exam-sc-900-topic-1-question-86-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 87 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/56904-exam-sc-900-topic-1-question-87-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 88 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79270-exam-sc-900-topic-1-question-88-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 89 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61583-exam-sc-900-topic-1-question-89-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 90 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58090-exam-sc-900-topic-1-question-90-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 91 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58323-exam-sc-900-topic-1-question-91-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 92 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84225-exam-sc-900-topic-1-question-92-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 93 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/24659-exam-ms-900-topic-1-question-93-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 94 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64915-exam-sc-900-topic-1-question-94-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 95 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64916-exam-sc-900-topic-1-question-95-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 96 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64917-exam-sc-900-topic-1-question-84-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 97 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64918-exam-sc-900-topic-1-question-97-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 98 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65157-exam-sc-900-topic-1-question-86-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 99 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65158-exam-sc-900-topic-1-question-87-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 100 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64669-exam-sc-900-topic-1-question-100-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 101 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/64919-exam-sc-900-topic-1-question-101-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 102 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58023-exam-sc-900-topic-1-question-102-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 103 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58024-exam-sc-900-topic-1-question-91-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 104 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/57258-exam-sc-900-topic-1-question-104-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 105 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/58847-exam-sc-900-topic-1-question-105-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 106 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/65155-exam-sc-900-topic-1-question-106-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 107 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/74838-exam-sc-900-topic-1-question-95-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 108 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61102-exam-sc-900-topic-1-question-108-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 109 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/82491-exam-sc-900-topic-1-question-109-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 110 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81529-exam-sc-900-topic-1-question-110-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 111 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/83902-exam-sc-900-topic-1-question-111-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 112 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80362-exam-sc-900-topic-1-question-112-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 113 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80005-exam-sc-900-topic-1-question-113-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 114 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78651-exam-sc-900-topic-1-question-114-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 115 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78633-exam-sc-900-topic-1-question-115-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 116 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/81629-exam-sc-900-topic-1-question-116-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 117 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79932-exam-sc-900-topic-1-question-117-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 118 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80619-exam-sc-900-topic-1-question-118-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 119 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79272-exam-sc-900-topic-1-question-119-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 120 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78630-exam-sc-900-topic-1-question-120-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 121 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79273-exam-sc-900-topic-1-question-121-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 122 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/79274-exam-sc-900-topic-1-question-122-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 123 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78488-exam-sc-900-topic-1-question-123-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 124 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/78487-exam-sc-900-topic-1-question-124-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 125 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80010-exam-sc-900-topic-1-question-125-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 126 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80009-exam-sc-900-topic-1-question-126-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 127 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93644-exam-sc-900-topic-1-question-127-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 128 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93645-exam-sc-900-topic-1-question-128-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 129 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93646-exam-sc-900-topic-1-question-129-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 130 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93647-exam-sc-900-topic-1-question-130-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 131 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93648-exam-sc-900-topic-1-question-131-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 132 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93649-exam-sc-900-topic-1-question-132-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 133 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93650-exam-sc-900-topic-1-question-133-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 134 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93651-exam-sc-900-topic-1-question-134-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 135 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93652-exam-sc-900-topic-1-question-135-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 136 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93653-exam-sc-900-topic-1-question-136-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 137 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93654-exam-sc-900-topic-1-question-137-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 138 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93656-exam-sc-900-topic-1-question-138-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 139 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93657-exam-sc-900-topic-1-question-139-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 140 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93659-exam-sc-900-topic-1-question-140-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 141 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93660-exam-sc-900-topic-1-question-141-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 142 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93662-exam-sc-900-topic-1-question-142-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 143 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93671-exam-sc-900-topic-1-question-143-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 144 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93672-exam-sc-900-topic-1-question-144-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 145 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93673-exam-sc-900-topic-1-question-145-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 146 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93674-exam-sc-900-topic-1-question-146-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 147 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93675-exam-sc-900-topic-1-question-147-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 148 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93676-exam-sc-900-topic-1-question-148-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 149 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93677-exam-sc-900-topic-1-question-149-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 150 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93678-exam-sc-900-topic-1-question-150-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 151 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93679-exam-sc-900-topic-1-question-151-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 152 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93680-exam-sc-900-topic-1-question-152-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 153 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93681-exam-sc-900-topic-1-question-153-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 154 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93682-exam-sc-900-topic-1-question-154-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 155 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93683-exam-sc-900-topic-1-question-155-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 156 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93684-exam-sc-900-topic-1-question-156-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 157 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/93685-exam-sc-900-topic-1-question-157-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 158 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/105602-exam-sc-900-topic-1-question-158-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 159 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113180-exam-sc-900-topic-1-question-159-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 160 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/112951-exam-sc-900-topic-1-question-160-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 161 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115467-exam-sc-900-topic-1-question-161-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 162 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/111525-exam-sc-900-topic-1-question-162-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 163 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/112117-exam-sc-900-topic-1-question-163-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 164 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/113579-exam-sc-900-topic-1-question-164-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 165 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/112114-exam-sc-900-topic-1-question-165-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 166 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/111936-exam-sc-900-topic-1-question-166-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 167 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/112115-exam-sc-900-topic-1-question-167-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 168 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/112116-exam-sc-900-topic-1-question-168-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 169 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/112113-exam-sc-900-topic-1-question-169-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 170 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/112112-exam-sc-900-topic-1-question-170-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 171 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/111636-exam-sc-900-topic-1-question-171-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 172 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/116418-exam-sc-900-topic-1-question-172-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 173 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/116419-exam-sc-900-topic-1-question-173-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 174 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/116420-exam-sc-900-topic-1-question-174-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 175 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115997-exam-sc-900-topic-1-question-175-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 176 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/116423-exam-sc-900-topic-1-question-176-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 177 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115624-exam-sc-900-topic-1-question-177-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 178 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/116425-exam-sc-900-topic-1-question-178-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 179 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115648-exam-sc-900-topic-1-question-179-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 180 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115608-exam-sc-900-topic-1-question-180-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 181 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/116429-exam-sc-900-topic-1-question-181-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 182 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/116431-exam-sc-900-topic-1-question-182-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 183 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115817-exam-sc-900-topic-1-question-183-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 184 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115622-exam-sc-900-topic-1-question-184-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 185 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115600-exam-sc-900-topic-1-question-185-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 186 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/115599-exam-sc-900-topic-1-question-186-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 187 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/135543-exam-sc-900-topic-1-question-187-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 188 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/140331-exam-sc-900-topic-1-question-188-discussion/"
+        },
+        {
+            "title": "Exam AI-900 topic 1 question 189 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/105634-exam-ai-900-topic-1-question-189-discussion/"
+        },
+        {
+            "title": "Exam AI-900 topic 1 question 190 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/106118-exam-ai-900-topic-1-question-190-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 191 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44117-exam-az-900-topic-1-question-191-discussion/"
+        },
+        {
+            "title": "Exam PL-900 topic 1 question 192 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/95950-exam-pl-900-topic-1-question-192-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 193 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/133760-exam-sc-900-topic-1-question-193-discussion/"
+        },
+        {
+            "title": "Exam AI-900 topic 1 question 194 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/100615-exam-ai-900-topic-1-question-194-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 195 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45076-exam-az-900-topic-1-question-195-discussion/"
+        },
+        {
+            "title": "Exam AI-900 topic 1 question 196 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/105549-exam-ai-900-topic-1-question-196-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 197 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139643-exam-sc-900-topic-1-question-197-discussion/"
+        },
+        {
+            "title": "Exam AI-900 topic 1 question 198 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/104513-exam-ai-900-topic-1-question-198-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 199 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80968-exam-az-900-topic-1-question-199-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 200 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/84376-exam-az-900-topic-1-question-200-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 201 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/61811-exam-ms-900-topic-1-question-201-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 202 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47972-exam-ms-900-topic-1-question-202-discussion/"
+        },
+        {
+            "title": "Exam AI-900 topic 1 question 203 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/105636-exam-ai-900-topic-1-question-203-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 204 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/55823-exam-ms-900-topic-1-question-181-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 205 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47973-exam-ms-900-topic-1-question-127-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 206 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/3599-exam-ms-900-topic-1-question-206-discussion/"
+        },
+        {
+            "title": "Exam SC-900 topic 1 question 207 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/139883-exam-sc-900-topic-1-question-207-discussion/"
+        },
+        {
+            "title": "Exam MS-900 topic 1 question 208 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/9229-exam-ms-900-topic-1-question-208-discussion/"
+        },
+        {
+            "title": "Exam AZ-900 topic 1 question 209 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/80696-exam-az-900-topic-1-question-209-discussion/"
+        }
+    ]
 }
