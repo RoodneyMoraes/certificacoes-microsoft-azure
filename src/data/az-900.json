@@ -1,6 +1,6 @@
 {
     "title": "Simulado da Microsoft Azure - AZ-900",
-    "AZ-900 | ExamTopics | Topic 1": [
+    "AZ-900 | ExamTopics | Topic 1 | Page 1": [
         {
             "title": "Exam AZ-900 topic 1 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/62815-exam-az-900-topic-1-question-1-discussion/"
@@ -200,7 +200,9 @@
         {
             "title": "Exam AZ-900 topic 1 question 50 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/44018-exam-az-900-topic-1-question-50-discussion/"
-        },
+        }
+    ],
+    "AZ-900 | ExamTopics | Topic 1 | Page 2": [
         {
             "title": "Exam AZ-900 topic 1 question 51 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/47158-exam-az-900-topic-1-question-51-discussion/"
@@ -400,7 +402,9 @@
         {
             "title": "Exam AZ-900 topic 1 question 100 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/44003-exam-az-900-topic-1-question-100-discussion/"
-        },
+        }
+    ],
+    "AZ-900 | ExamTopics | Topic 1 | Page 3": [
         {
             "title": "Exam AZ-900 topic 1 question 101 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/7698-exam-az-900-topic-1-question-101-discussion/"
@@ -495,7 +499,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 124 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/51489-exam-az-900-topic-1-question-77-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/51489-exam-az-900-topic-1-question-124-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 125 discussion",
@@ -600,7 +604,9 @@
         {
             "title": "Exam AZ-900 topic 1 question 150 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/80708-exam-az-900-topic-1-question-150-discussion/"
-        },
+        }
+    ],
+    "AZ-900 | ExamTopics | Topic 1 | Page 4": [
         {
             "title": "Exam AZ-900 topic 1 question 151 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/81560-exam-az-900-topic-1-question-151-discussion/"
@@ -739,7 +745,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 185 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/44038-exam-az-900-topic-1-question-77-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44038-exam-az-900-topic-1-question-185-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 186 discussion",
@@ -755,7 +761,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 189 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/45073-exam-az-900-topic-1-question-123-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45073-exam-az-900-topic-1-question-189-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 190 discussion",
@@ -800,14 +806,16 @@
         {
             "title": "Exam AZ-900 topic 1 question 200 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/84376-exam-az-900-topic-1-question-200-discussion/"
-        },
+        }
+    ],
+    "AZ-900 | ExamTopics | Topic 1 | Page 5": [
         {
             "title": "Exam AZ-900 topic 1 question 201 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/84319-exam-az-900-topic-1-question-201-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 202 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/14896-exam-az-900-topic-1-question-32-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/14896-exam-az-900-topic-1-question-202-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 203 discussion",
@@ -1000,7 +1008,9 @@
         {
             "title": "Exam AZ-900 topic 1 question 250 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/38449-exam-az-900-topic-1-question-250-discussion/"
-        },
+        }
+    ],
+    "AZ-900 | ExamTopics | Topic 1 | Page 6": [
         {
             "title": "Exam AZ-900 topic 1 question 251 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/46031-exam-az-900-topic-1-question-251-discussion/"
@@ -1027,7 +1037,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 257 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/45183-exam-az-900-topic-1-question-178-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45183-exam-az-900-topic-1-question-257-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 258 discussion",
@@ -1066,8 +1076,8 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/52551-exam-az-900-topic-1-question-266-discussion/"
         },
         {
-            "title": "Exam MS-900 topic 1 question 267 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/94221-exam-ms-900-topic-1-question-267-discussion/"
+            "title": "Exam AZ-900 topic 1 question 267 discussion - Questão Não Encontrada no Google",
+            "link": "/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 268 discussion",
@@ -1115,7 +1125,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 279 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/11129-exam-az-900-topic-1-question-239-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/11129-exam-az-900-topic-1-question-279-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 280 discussion",
@@ -1127,7 +1137,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 282 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/63588-exam-az-900-topic-1-question-234-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/63588-exam-az-900-topic-1-question-282-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 283 discussion",
@@ -1200,7 +1210,9 @@
         {
             "title": "Exam AZ-900 topic 1 question 300 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/48043-exam-az-900-topic-1-question-300-discussion/"
-        },
+        }
+    ],
+    "AZ-900 | ExamTopics | Topic 1 | Page 7": [
         {
             "title": "Exam AZ-900 topic 1 question 301 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/46512-exam-az-900-topic-1-question-301-discussion/"
@@ -1267,7 +1279,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 317 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/44187-exam-az-900-topic-1-question-173-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44187-exam-az-900-topic-1-question-317-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 318 discussion",
@@ -1311,7 +1323,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 328 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/44002-exam-az-900-topic-1-question-181-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/44002-exam-az-900-topic-1-question-328-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 329 discussion",
@@ -1319,7 +1331,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 330 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/45912-exam-az-900-topic-1-question-229-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/45912-exam-az-900-topic-1-question-330-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 331 discussion",
@@ -1335,7 +1347,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 334 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/9610-exam-az-900-topic-1-question-185-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/9610-exam-az-900-topic-1-question-334-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 335 discussion",
@@ -1400,7 +1412,9 @@
         {
             "title": "Exam AZ-900 topic 1 question 350 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/86119-exam-az-900-topic-1-question-350-discussion/"
-        },
+        }
+    ],
+    "AZ-900 | ExamTopics | Topic 1 | Page 8": [
         {
             "title": "Exam AZ-900 topic 1 question 351 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/81476-exam-az-900-topic-1-question-351-discussion/"
@@ -1423,7 +1437,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 356 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/7886-exam-az-900-topic-1-question-239-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/7886-exam-az-900-topic-1-question-356-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 357 discussion",
@@ -1431,7 +1445,7 @@
         },
         {
             "title": "Exam AZ-900 topic 1 question 358 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/10463-exam-az-900-topic-1-question-193-discussion/"
+            "link": "https://www.examtopics.com/discussions/microsoft/view/10463-exam-az-900-topic-1-question-358-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 359 discussion",
@@ -1558,8 +1572,8 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/93462-exam-az-900-topic-1-question-389-discussion/"
         },
         {
-            "title": "Exam AZ-900 topic 1 question 447 discussion",
-            "link": "https://www.examtopics.com/discussions/microsoft/view/119859-exam-az-900-topic-1-question-447-discussion/"
+            "title": "Exam AZ-900 topic 1 question 390 discussion",
+            "link": "https://www.examtopics.com/discussions/checkpoint/view/23153-exam-156-31580-topic-1-question-390-discussion/"
         },
         {
             "title": "Exam AZ-900 topic 1 question 391 discussion",
@@ -1600,7 +1614,9 @@
         {
             "title": "Exam AZ-900 topic 1 question 400 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/94663-exam-az-900-topic-1-question-400-discussion/"
-        },
+        }
+    ],
+    "AZ-900 | ExamTopics | Topic 1 | Page 9": [
         {
             "title": "Exam AZ-900 topic 1 question 401 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/93155-exam-az-900-topic-1-question-401-discussion/"
@@ -1800,7 +1816,9 @@
         {
             "title": "Exam AZ-900 topic 1 question 450 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/133605-exam-az-900-topic-1-question-450-discussion/"
-        },
+        }
+    ],
+    "AZ-900 | ExamTopics | Topic 1 | Page 10": [
         {
             "title": "Exam AZ-900 topic 1 question 451 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/133606-exam-az-900-topic-1-question-451-discussion/"

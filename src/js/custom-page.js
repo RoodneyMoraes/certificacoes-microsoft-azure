@@ -98,7 +98,7 @@ async function carregarPagina($json, $localStorage) {
         const totalItens = topicoAtual.Itens.length;
         const itensVisitados = topicoAtual.Itens.filter(item => visitados.includes(item.link)).length;
         const percentualVisitado = (itensVisitados / totalItens) * 100;
-        const textoDescricao = `Você acessou ${Math.round(percentualVisitado)}% porcento (${itensVisitados} de ${totalItens}) dos links abaixo - Total de Perguntas: (${contarTotalDeLinks()})`;
+        const textoDescricao = `Você acessou ${Math.round(percentualVisitado)}% (${itensVisitados} de ${totalItens}) dos links desta página - Total de Perguntas: ${contarTotalDeLinks()}`;
         const descricaoProgresso = document.getElementById("descricaoProgresso");
         descricaoProgresso.textContent = textoDescricao;
     }
@@ -122,17 +122,17 @@ async function carregarPagina($json, $localStorage) {
                                 <div class="modal-dialog">
                                     <div class="modal-content">
                                         <div class="modal-header">
-                                            <h5 class="modal-title" id="confirmacaoModalLabel">Confirmação</h5>
+                                            <h5 class="modal-title" id="confirmacaoModalLabel">Iniciar do Zero?</h5>
                                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                 <span aria-hidden="true">&times;</span>
                                             </button>
                                         </div>
                                         <div class="modal-body">
-                                            Deseja realmente reiniciar todo o progresso? Ao confirmar será excluido todo o historico de acesso aos links de cada tópico que está armazenado no Local Storage, essa ação irá fazer você voltar ao tópico 1.
+                                            Deseja realmente reiniciar todo o progresso? Ao confirmar, o histórico de acesso aos links de cada tópico armazenado no Local Storage será excluído.
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
-                                            <button type="button" class="btn btn-danger" onclick="localStorage.removeItem('${localStorage}'); $('#confirmacaoModal').modal('hide'); location.reload();">Reiniciar o Progresso</button>
+                                            <button type="button" class="btn btn-danger" onclick="localStorage.removeItem('${localStorage}'); $('#confirmacaoModal').modal('hide'); location.reload();">Confirmar</button>
                                         </div>
                                     </div>
                                 </div>
@@ -145,13 +145,13 @@ async function carregarPagina($json, $localStorage) {
                                 <div class="modal-dialog">
                                     <div class="modal-content">
                                         <div class="modal-header">
-                                            <h5 class="modal-title" id="voltarHomeModalLabel">Voltar ao Menu Principal</h5>
+                                            <h5 class="modal-title" id="voltarHomeModalLabel">Voltar ao Menu Principal?</h5>
                                             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                                                 <span aria-hidden="true">&times;</span>
                                             </button>
                                         </div>
                                         <div class="modal-body">
-                                            Tem certeza que deseja voltar ao menu principal? Ao confirmar você será redirecionado para a página "Simulados para as Certificações da Microsoft Azure".
+                                            Tem certeza de que deseja voltar ao menu principal? Ao confirmar, você será redirecionado para a página de ‘Simulados para as Certificações da Microsoft Azure’
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
