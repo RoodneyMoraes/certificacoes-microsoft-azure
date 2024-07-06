@@ -12,6 +12,7 @@ async function carregarPerguntas($json) {
 async function carregarPagina($json, $localStorage) {
     const data = await carregarPerguntas($json);
     if (!data) return;
+    
 
     let topicos = Object.keys(data).filter(key => key !== 'title').map(key => ({ Titulo: key, Itens: data[key] }));
     let paginaAtual = 0;
@@ -66,10 +67,19 @@ async function carregarPagina($json, $localStorage) {
         atualizarBarraDeProgresso();
     }
 
+    // Função para voltar ao topo da página
+    function irParaTopo() {
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+        });
+    }
+
     function proximaPagina() {
         if (paginaAtual < topicos.length - 1) {
             paginaAtual++;
             exibirTopicos();
+            irParaTopo();
         }
     }
 
@@ -77,6 +87,7 @@ async function carregarPagina($json, $localStorage) {
         if (paginaAtual > 0) {
             paginaAtual--;
             exibirTopicos();
+            irParaTopo();
         }
     }
 
