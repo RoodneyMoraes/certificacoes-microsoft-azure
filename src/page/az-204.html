@@ -1,12 +1,51 @@
 <!DOCTYPE html>
 <html lang="pt">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Em Construção</title>
+    <title>Simulado AZ-204</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <link href="../css/custom-page.css" rel="stylesheet">
 </head>
+
 <body>
-    <h1>Estamos ainda em construção!</h1>
-    <a href="../../index.html">Voltar à página principal</a>
+    <header>
+        <div class="container">
+            <h1 id="tituloPagina"></h1>
+            <h6 id="descricaoProgresso"></h6>
+        </div>
+    </header>
+
+    <div class="container topicos mt-6">
+        <div id="topicos" class="list-group mt-3"></div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="../js/custom-page.js"></script>
+    <script>
+        carregarPagina('../data/az-204.json', 'simulado-az-204');
+    </script>
+
+    <footer>
+        <div class="container">
+            <div class="d-flex justify-content-between mt-3">
+                <div>
+                    <button id="btnLimpar" class="btn btn-danger" onclick="limparLocalStorage()">Iniciar do Zero</button>
+                </div>
+                <div>
+                    <button id="btnAnterior" class="btn btn-primary" onclick="paginaAnterior()">Anterior</button>
+                    <!-- Botão Home adicionado aqui -->
+                    <button id="btnHome" class="btn btn-primary" onclick="confirmarVoltarHome()">Menu</button>
+                    <button id="btnProxima" class="btn btn-primary" onclick="proximaPagina()">Próxima</button>
+                </div>
+                <div>
+                    <div id="infoPagina" class="text-right"></div>
+                </div>
+            </div>
+        </div>
+    </footer>
 </body>
+
 </html>
