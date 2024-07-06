@@ -25,6 +25,11 @@ footer {
     margin-bottom: 130px;
 }
 
+.btnDesativado {
+    cursor: not-allowed;
+    opacity: 0.5; /* opcional, para tornar o botão visualmente desativado */
+}
+
 @media (max-width: 768px) {
     h1 {
         font-size: 1.5rem;

@@ -99,8 +99,22 @@ async function carregarPagina($json, $localStorage) {
     function atualizarBotoes() {
         const btnAnterior = document.getElementById("btnAnterior");
         const btnProxima = document.getElementById("btnProxima");
-        btnAnterior.disabled = paginaAtual === 0;
-        btnProxima.disabled = paginaAtual >= topicos.length - 1;
+        
+        if (paginaAtual === 0) {
+            btnAnterior.disabled = true;
+            btnAnterior.classList.add("btnDesativado");
+        } else {
+            btnAnterior.disabled = false;
+            btnAnterior.classList.remove("btnDesativado");
+        }
+        
+        if (paginaAtual >= topicos.length - 1) {
+            btnProxima.disabled = true;
+            btnProxima.classList.add("btnDesativado");
+        } else {
+            btnProxima.disabled = false;
+            btnProxima.classList.remove("btnDesativado");
+        }
     }
 
     function atualizarBarraDeProgresso() {
