@@ -1,6 +1,6 @@
 {
     "title": "Simulado da Microsoft Azure - AZ-204",
-    "AZ-204 | ExamTopics | Topic 1 | Page 1": [
+    "AZ-204 | ExamTopics | Topic 1": [
         {
             "title": "Exam AZ-204 topic 1 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/74900-exam-az-204-topic-1-question-1-discussion/"
@@ -150,7 +150,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/94244-exam-az-204-topic-1-question-37-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 2 | Page 2": [
+    "AZ-204 | ExamTopics | Topic 2": [
         {
             "title": "Exam AZ-204 topic 2 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/37489-exam-az-204-topic-2-question-1-discussion/"
@@ -404,7 +404,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/130435-exam-az-204-topic-2-question-63-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 3 | Page 3": [
+    "AZ-204 | ExamTopics | Topic 3": [
         {
             "title": "Exam AZ-204 topic 3 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/37399-exam-az-204-topic-3-question-1-discussion/"
@@ -618,7 +618,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/130460-exam-az-204-topic-3-question-53-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 4 | Page 4": [
+    "AZ-204 | ExamTopics | Topic 4": [
         {
             "title": "Exam AZ-204 topic 4 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/40700-exam-az-204-topic-4-question-1-discussion/"
@@ -912,7 +912,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/130443-exam-az-204-topic-4-question-73-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 5 | Page 5": [
+    "AZ-204 | ExamTopics | Topic 5": [
         {
             "title": "Exam AZ-204 topic 5 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/36142-exam-az-204-topic-5-question-1-discussion/"
@@ -1110,7 +1110,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/130992-exam-az-204-topic-5-question-49-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 6 | Page 6": [
+    "AZ-204 | ExamTopics | Topic 6": [
         {
             "title": "Exam AZ-204 topic 6 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/25200-exam-az-204-topic-6-question-1-discussion/"
@@ -1356,7 +1356,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/130872-exam-az-204-topic-6-question-61-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 7 | Page 7": [
+    "AZ-204 | ExamTopics | Topic 7": [
         {
             "title": "Exam AZ-204 topic 7 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/74762-exam-az-204-topic-7-question-1-discussion/"
@@ -1366,7 +1366,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/74859-exam-az-204-topic-7-question-2-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 8 | Page 8": [
+    "AZ-204 | ExamTopics | Topic 8": [
         {
             "title": "Exam AZ-204 topic 8 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/49226-exam-az-204-topic-8-question-1-discussion/"
@@ -1376,7 +1376,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/47656-exam-az-204-topic-8-question-2-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 9 | Page 9": [
+    "AZ-204 | ExamTopics | Topic 9": [
         {
             "title": "Exam AZ-204 topic 9 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/59363-exam-az-204-topic-9-question-1-discussion/"
@@ -1386,7 +1386,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/59365-exam-az-204-topic-9-question-2-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 10 | Page 10": [
+    "AZ-204 | ExamTopics | Topic 10": [
         {
             "title": "Exam AZ-204 topic 10 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/79260-exam-az-204-topic-10-question-1-discussion/"
@@ -1404,7 +1404,7 @@
             "link": "https://www.examtopics.com/discussions/microsoft/view/75072-exam-az-204-topic-10-question-4-discussion/"
         }
     ],
-    "AZ-204 | ExamTopics | Topic 11 | Page 11": [
+    "AZ-204 | ExamTopics | Topic 11": [
         {
             "title": "Exam AZ-204 topic 11 question 1 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/50153-exam-az-204-topic-11-question-1-discussion/"
@@ -1424,6 +1424,42 @@
         {
             "title": "Exam AZ-204 topic 11 question 5 discussion",
             "link": "https://www.examtopics.com/discussions/microsoft/view/48950-exam-az-204-topic-11-question-5-discussion/"
+        }
+    ],
+    "AZ-204 | ExamTopics | Topic 12": [
+        {
+            "title": "Exam AZ-204 topic 12 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/75073-exam-az-204-topic-12-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-204 topic 12 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/27025-exam-az-204-topic-12-question-2-discussion/"
+        }
+    ],
+    "AZ-204 | ExamTopics | Topic 13": [
+        {
+            "title": "Exam AZ-204 topic 13 question 1 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/48293-exam-az-204-topic-13-question-1-discussion/"
+        },
+        {
+            "title": "Exam AZ-204 topic 13 question 2 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47796-exam-az-204-topic-13-question-2-discussion/"
+        },
+        {
+            "title": "Exam AZ-204 topic 13 question 3 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/46558-exam-az-204-topic-13-question-3-discussion/"
+        },
+        {
+            "title": "Exam AZ-204 topic 13 question 4 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/46753-exam-az-204-topic-13-question-4-discussion/"
+        },
+        {
+            "title": "Exam AZ-204 topic 13 question 5 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/49178-exam-az-204-topic-13-question-5-discussion/"
+        },
+        {
+            "title": "Exam AZ-204 topic 13 question 6 discussion",
+            "link": "https://www.examtopics.com/discussions/microsoft/view/47104-exam-az-204-topic-13-question-6-discussion/"
         }
     ]
 }
