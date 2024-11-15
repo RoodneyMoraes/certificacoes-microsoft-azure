@@ -61,6 +61,7 @@ async function carregarPagina($json, $localStorage) {
                 marcarComoVisitado(item.link);
 
                 // Adiciona o rastreamento do Google Analytics
+                console.log('Evento de clique registrado:', item.link);
                 gtag('event', 'click', {
                     'event_category': 'outbound',
                     'event_label': item.link,
