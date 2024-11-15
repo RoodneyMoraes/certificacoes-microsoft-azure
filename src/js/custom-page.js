@@ -59,6 +59,13 @@ async function carregarPagina($json, $localStorage) {
             elemento.addEventListener('click', (e) => {
                 e.target.style.backgroundColor = "lightgreen";
                 marcarComoVisitado(item.link);
+
+                // Adiciona o rastreamento do Google Analytics
+                gtag('event', 'click', {
+                    'event_category': 'outbound',
+                    'event_label': item.link,
+                    'transport_type': 'beacon'
+                });
             });
             container.appendChild(elemento);
         });
