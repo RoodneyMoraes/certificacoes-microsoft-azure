@@ -83,6 +83,10 @@ section {
     color: #d1e7ff;
 }
 
+.navbar-shadow {
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
 /* CARD DOS CERTIFICADOS */
 .certificado-card {
     padding: 32px;
