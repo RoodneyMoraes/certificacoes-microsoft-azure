@@ -1,24 +1,200 @@
-.card {
-    transition: transform 0.3s ease-in-out;
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap');
+
+:root {
+    --azure: #0078d4;
+    --dark: #092032;
+    --body: #516171;
+    --border: rgba(0, 0, 0, 0.08);
+    --shadow: 0px 6px 30px rgba(0, 0, 0, 0.08);
 }
 
-.card:hover {
-    transform: scale(1.05);
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+body {
+    font-family: "Barlow", sans-serif;
+    color: var(--body);
+    line-height: 1.7;
 }
 
-.card-body a {
-    color: #007bff;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.display-1,
+.display-2,
+.display-3,
+.display-4 {
+    font-weight: 700;
+    color: var(--dark);
+}
+
+a {
+    color: var(--dark);
+    transition: all 0.4s ease;
+    font-weight: 500;
     text-decoration: none;
+}
+
+a:hover {
+    color: var(--azure);
+}
+
+section {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+.navbar .navbar-nav .nav-link {
+    color: var(--dark);
+}
+
+.navbar .navbar-nav .nav-link:hover {
+    color: var(--azure);
+}
+
+.navbar .navbar-nav .nav-link.active {
+    color: var(--azure);
+}
+
+.navbar-head {
+    font-size: 28px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.navbar {
+    background-color: #0d6efd !important;
+
+}
+
+.navbar .container {
+    justify-content: center;
+}
+
+.navbar .navbar-head {
+    color: white;
+    font-size: 2rem;
     font-weight: bold;
+    text-align: center;
 }
 
-.card-body a:hover {
+.navbar .navbar-head:hover {
+    color: #d1e7ff;
+}
+
+/* CARD DOS CERTIFICADOS */
+.certificado-card {
+    padding: 32px;
+    background-color: #fff;
+    box-shadow: var(--shadow);
+    border: 2px solid rgba(13, 110, 253, 0.2);
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: var(--shadow);
+}
+
+.certificado-card h5 {
+    margin-top: 24px;
+    margin-bottom: 14px;
+}
+
+.certificado-card img {
+    width: 150px;
+}
+
+.certificado-card .buttons {
+    margin-top: 10px;
+}
+
+.certificado-card p {
+    height: 110px; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
+
+.certificado-card .btn-simulado,
+.certificado-card .btn-plano {
+    display: inline-block;
+    background-color: var(--azure);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin-right: 10px;
+    margin-bottom: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 160px;
+    text-align: center;
+    border-radius: 8px;
     text-decoration: none;
 }
 
+.certificado-card .btn-simulado:hover,
+.certificado-card .btn-plano:hover {
+    background-color: var(--dark);
+}
+
+/* FOOTER */
+footer {
+    background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), #082032;
+    ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+footer .footer-top {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.footer-bottom {
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+footer .navbar-footer {
+    color: #fff;
+}
+
+footer p {
+    color: #ADB3B9;
+}
+
+footer .social-icons a {
+    width: 50px;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.social-icons a {
+    width: 28px;
+    height: 28px;
+    display: inline-flex;
+    color: #fff;
+    background-color: rgba(255, 255, 255, 0.25);
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    border-radius: 100px;
+}
+
+.social-icons a:hover {
+    background-color: #fff;
+    color: var(--azure);
+}
+
+/* MOBILE */
 @media (max-width: 768px) {
-    h1 {
-        font-size: 1.5rem;
+    .navbar .navbar-head {
+        font-size: 1.3rem;
+        padding: 15px 0;
     }
 }

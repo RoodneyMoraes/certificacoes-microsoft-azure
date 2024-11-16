@@ -4,81 +4,156 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simulados para as Certificações da Microsoft Azure</title>
-    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <title>Certificações da Microsoft Azure</title>
+    <!-- BOOTSTRAPCSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+    <!-- CUSTOM CSS -->
     <link href="src/css/custom-index.css" rel="stylesheet">
-    <!-- Google tag (gtag.js) -->
+    <!-- GOOGLE TAG (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-CMLZKJVKKY"></script>
     <script src="/src/js/google-analytics.js"></script>
-    
+
 </head>
 
 <body>
-    <div class="container mt-5">
-        <h1 class="text-center">Simulados para as Certificações da Microsoft Azure</h1>
-        <div class="row mt-4">
-            <!-- Use Bootstrap's responsive grid system to adjust for different screen sizes -->
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body text-center">
-                        <a href="src/page/az-900.html" class="stretched-link">AZ-900</a>
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top">
+        <div class="container">
+            <a class="navbar-head">Certificações da Microsoft Azure</a>
+        </div>
+    </nav>
+
+    <!-- SECTION -->
+    <section id="certificados" class="text-center">
+        <div class="container">
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6">
+                    <div class="certificado-card">
+                        <img src="src/img/MS-900.png" alt="MS-900">
+                        <h5>Microsoft Certified: MS-900</h5>
+                        <p>Demonstre a compreensão do Microsoft 365 para fornecer aplicativos de produtividade líderes
+                            do setor, juntamente com serviços de nuvem inteligentes e segurança de classe mundial.</p>
+                        <div class="buttons">
+                            <a href="#" class="btn-plano">Plano de Estudo</a>
+                            <a href="#" class="btn-simulado">Fazer Simulado</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body text-center">
-                        <a href="src/page/dp-900.html" class="stretched-link">DP-900</a>
+                <div class="col-lg-4 col-md-6">
+                    <div class="certificado-card">
+                        <img src="src/img/AZ-900.png" alt="AZ-900">
+                        <h5>Microsoft Certified: AZ-900</h5>
+                        <p>Demonstrar conhecimento fundamental dos conceitos de nuvem e dos principais serviços do
+                            Azure, além de recursos e ferramentas de gerenciamento e governança do Azure.</p>
+                        <div class="buttons">
+                            <a href="#" class="btn-plano">Plano de Estudo</a>
+                            <a href="src/page/az-900.html" class="btn-simulado">Fazer Simulado</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body text-center">
-                        <a href="src/page/sc-900.html" class="stretched-link">SC-900</a>
+                <div class="col-lg-4 col-md-6">
+                    <div class="certificado-card">
+                        <img src="src/img/DP-900.png" alt="DP-900">
+                        <h5>Microsoft Certified: DP-900</h5>
+                        <p>Demonstrar o conhecimento fundamental dos principais conceitos de dados relacionados aos
+                            serviços de dados do Microsoft Azure.</p>
+                        <div class="buttons">
+                            <a href="#" class="btn-plano">Plano de Estudo</a>
+                            <a href="src/page/dp-900.html" class="btn-simulado">Fazer Simulado</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body text-center">
-                        <a href="src/page/ai-900.html" class="stretched-link">AI-900</a>
+                <div class="col-lg-4 col-md-6">
+                    <div class="certificado-card">
+                        <img src="src/img/SC-900.png" alt="SC-900">
+                        <h5>Microsoft Certified: SC-900</h5>
+                        <p>Este curso fornece conhecimento de nível básico sobre conceitos de segurança, conformidade e
+                            identidade e soluções da Microsoft baseadas na nuvem.</p>
+                        <div class="buttons">
+                            <a href="#" class="btn-plano">Plano de Estudo</a>
+                            <a href="src/page/sc-900.html" class="btn-simulado">Fazer Simulado</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body text-center">
-                        <a href="src/page/az-104.html" class="stretched-link">AZ-104</a>
+                <div class="col-lg-4 col-md-6">
+                    <div class="certificado-card">
+                        <img src="src/img/AI-900.png" alt="AI-900">
+                        <h5>Microsoft Certified: AI-900</h5>
+                        <p>Demonstre conceitos fundamentais de IA relacionados ao desenvolvimento de software e serviços
+                            do Microsoft Azure para criar soluções de IA.</p>
+                        <div class="buttons">
+                            <a href="#" class="btn-plano">Plano de Estudo</a>
+                            <a href="src/page/ai-900.html" class="btn-simulado">Fazer Simulado</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body text-center">
-                        <a href="src/page/az-204.html" class="stretched-link">AZ-204</a>
+                <div class="col-lg-4 col-md-6">
+                    <div class="certificado-card">
+                        <img src="src/img/AZ-104.png" alt="AZ-104">
+                        <h5>Microsoft Certified: AZ-104</h5>
+                        <p>Demonstre as principais habilidades para configurar, gerenciar, proteger e administrar
+                            funções profissionais importantes no Microsoft Azure.</p>
+                        <div class="buttons">
+                            <a href="#" class="btn-plano">Plano de Estudo</a>
+                            <a href="src/page/az-104.html" class="btn-simulado">Fazer Simulado</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body text-center">
-                        <a href="src/page/az-400.html" class="stretched-link">AZ-400</a>
+                <div class="col-lg-4 col-md-6">
+                    <div class="certificado-card">
+                        <img src="src/img/AZ-204.png" alt="AZ-204">
+                        <h5>Microsoft Certified: AZ-204</h5>
+                        <p>Crie soluções de ponta a ponta no Microsoft Azure para criar Funções do Azure, implementar e
+                            gerenciar aplicativos Web, desenvolver soluções utilizando o Armazenamento do Microsoft
+                            Azure e muito mais.</p>
+                        <div class="buttons">
+                            <a href="#" class="btn-plano">Plano de Estudo</a>
+                            <a href="src/page/az-204.html" class="btn-simulado">Fazer Simulado</a>
+                        </div>
                     </div>
                 </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mb-4">
-                <div class="card h-100">
-                    <div class="card-body text-center">
-                        <a href="src/page/az-305.html" class="stretched-link">AZ-305</a>
+                <div class="col-lg-4 col-md-6">
+                    <div class="certificado-card">
+                        <img src="src/img/AZ-305.png" alt="AZ-305">
+                        <h5>Microsoft Certified: AZ-305</h5>
+                        <p>Esta certificação valida habilidades avançadas em projetar e gerenciar soluções Azure,
+                            abrangendo identidade, segurança, dados e infraestrutura. Ideal para arquitetos de soluções.
+                        </p>
+                        <div class="buttons">
+                            <a href="#" class="btn-plano">Plano de Estudo</a>
+                            <a href="src/page/az-305.html" class="btn-simulado">Fazer Simulado</a>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-    </div>
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.2/dist/umd/popper.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="footer-top text-center">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-6 text-center">
+                        <h4 class="navbar-footer">Sucesso no dia do exame! 🌟</h4>
+                        <p>Espero que esses simulados e o plano de estudos sejam ferramentas valiosas na sua preparação
+                            como foi para mim. Lembre-se de que a dedicação e a perseverança são essenciais para
+                            alcançar seus objetivos.🍀📚</p>
+                        <div class="col-auto social-icons">
+                            <a href="https://github.com/RoodneyMoraes" target="_blank"><i class='bx bxl-github'></i></a>
+                            <a href="https://www.linkedin.com/in/roodney-moraes" target="_blank"><i
+                                    class='bx bxl-linkedin'></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bottom text-center">
+            <p class="mb-0"><i>Copyright@2024. Roodney Moraes</i></p>
+        </div>
+    </footer>
 </body>
 
 </html>

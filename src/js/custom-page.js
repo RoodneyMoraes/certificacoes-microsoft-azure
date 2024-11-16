@@ -184,7 +184,7 @@ async function carregarPagina($json, $localStorage) {
                                             </button>
                                         </div>
                                         <div class="modal-body">
-                                            Tem certeza de que deseja voltar ao menu principal? Ao confirmar, você será redirecionado para a página de ‘Simulados para as Certificações da Microsoft Azure’
+                                            Tem certeza de que deseja voltar ao menu principal? Ao confirmar, você será redirecionado para a página de ‘Certificações da Microsoft Azure’
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
