@@ -21,7 +21,7 @@ document.addEventListener('DOMContentLoaded', () => {
             alt: "DP-900",
             title: "Microsoft Certified: DP-900",
             desc: "Demonstre conhecimento fundamental em conceitos de dados e como eles são implementados usando serviços de dados do Microsoft Azure.",
-            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2307-%E2%80%90-Microsoft-Certified:-DP%E2%80%90900",
+            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2303-%E2%80%90-Microsoft-Certified:-DP%E2%80%90900",
             simulado: "src/page/dp-900.html"
         },
         {
@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', () => {
             alt: "AI-900",
             title: "Microsoft Certified: AI-900",
             desc: "Demonstre conhecimento fundamental em conceitos de inteligência artificial e como eles são implementados usando serviços de IA do Microsoft Azure.",
-            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2308-%E2%80%90-Microsoft-Certified:-AI%E2%80%90900",
+            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2305-%E2%80%90-Microsoft-Certified:-AI%E2%80%90900",
             simulado: "src/page/ai-900.html"
         },
         {
@@ -45,7 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
             alt: "AZ-104",
             title: "Microsoft Certified: AZ-104",
             desc: "Demonstre conhecimento avançado em serviços de nuvem e como implementá-los, gerenciá-los e monitorá-los no Microsoft Azure.",
-            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2303-%E2%80%90-Microsoft-Certified:-AZ%E2%80%90104",
+            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2306-%E2%80%90-Microsoft-Certified:-AZ%E2%80%90104",
             simulado: "src/page/az-104.html"
         },
         {
@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', () => {
             alt: "AZ-204",
             title: "Microsoft Certified: AZ-204",
             desc: "Demonstre habilidades em desenvolvimento de soluções no Microsoft Azure, incluindo design, construção, teste e manutenção de aplicativos e serviços.",
-            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2304-%E2%80%90-Microsoft-Certified:-AZ%E2%80%90204",
+            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2307-%E2%80%90-Microsoft-Certified:-AZ%E2%80%90204",
             simulado: "src/page/az-204.html"
         },
         {
@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', () => {
             alt: "AZ-305",
             title: "Microsoft Certified: AZ-305",
             desc: "Demonstre habilidades em design de soluções no Microsoft Azure, incluindo aspectos de segurança, escalabilidade e confiabilidade.",
-            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2305-%E2%80%90-Microsoft-Certified:-AZ%E2%80%90305",
+            plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2308-%E2%80%90-Microsoft-Certified:-AZ%E2%80%90305",
             simulado: "src/page/az-305.html"
         }
     ];
