@@ -30,6 +30,12 @@ footer {
     opacity: 0.5; /* opcional, para tornar o botão visualmente desativado */
 }
 
+.cookie-consent-banner {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-top: 1px solid #e7e6e6;
+    border-bottom: 1px solid #e7e6e6;
+}
+
 @media (max-width: 768px) {
     h1 {
         font-size: 1.5rem;
@@ -63,6 +69,9 @@ footer {
     .cookie-consent-banner {
         flex-direction: column;
         text-align: center;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-top: 1px solid #e7e6e6;         
+        border-bottom: 1px solid #e7e6e6;
     }
 
     .cookie-consent-banner div {

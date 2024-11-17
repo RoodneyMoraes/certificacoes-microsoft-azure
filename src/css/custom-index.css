@@ -176,6 +176,12 @@ footer .social-icons a {
     color: var(--azure);
 }
 
+.cookie-consent-banner {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-top: 1px solid #e7e6e6;
+    border-bottom: 1px solid #e7e6e6;
+}
+
 /* MEDIA QUERIES - MOBILE */
 @media (max-width: 768px) {
     .navbar .navbar-head {
@@ -186,6 +192,10 @@ footer .social-icons a {
     .cookie-consent-banner {
         flex-direction: column;
         text-align: center;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        border-top: 1px solid #e7e6e6;         
+        border-bottom: 1px solid #e7e6e6;
+
     }
 
     .cookie-consent-banner div {
