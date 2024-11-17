@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
             title: "Microsoft Certified: SC-900",
             desc: "Este curso fornece conhecimento de nível básico sobre conceitos de segurança, conformidade e identidade e soluções da Microsoft baseadas na nuvem.",
             plano: "https://github.com/RoodneyMoraes/certificacoes-microsoft-azure/wiki/%2304-%E2%80%90-Microsoft-Certified:-SC%E2%80%90900",
-            simulado: "src/page/ai-900.html"
+            simulado: "src/page/sc-900.html"
         },
         {
             img: "src/img/AI-900.png",

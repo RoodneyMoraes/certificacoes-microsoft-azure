@@ -6,9 +6,16 @@ header {
     width: 100%;
     height: auto;
     z-index: 1000;
-    background-color: #fff;
+    background-color: #0d6efd !important;
+    justify-content: center;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    font-size: 2rem;
 }
 
+
+/* FOOTER */
 footer {
     position: fixed;
     bottom: 0;
@@ -17,7 +24,14 @@ footer {
     width: 100%;
     height: auto;
     z-index: 1000;
-    background-color: #fff;
+    background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), #082032;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#infoPagina {
+    color: #fff;
 }
 
 .topicos {
