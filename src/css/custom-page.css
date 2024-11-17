@@ -59,4 +59,27 @@ footer {
     footer .d-flex>div:last-child {
         margin-bottom: 0;
     }
+
+    .cookie-consent-banner {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .cookie-consent-banner div {
+        width: 100%;
+    }
+
+    .cookie-consent-banner .d-flex {
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .cookie-consent-banner .btn {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+
+    .cookie-consent-banner .btn:last-child {
+        margin-bottom: 0;
+    }
 }
