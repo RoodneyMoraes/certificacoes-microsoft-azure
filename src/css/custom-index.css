@@ -184,9 +184,18 @@ footer .social-icons a {
 
 /* MEDIA QUERIES - MOBILE */
 @media (max-width: 768px) {
+
+    section {
+        padding: 30px 0;
+    }
+
     .navbar .navbar-head {
         font-size: 1.3rem;
         padding: 15px 0;
+    }
+
+    .navbar-footer {
+        font-size: 1.2rem;
     }
 
     .cookie-consent-banner {

@@ -35,8 +35,8 @@ footer {
 }
 
 .topicos {
-    margin-top: 130px;
-    margin-bottom: 130px;
+    margin-top: 150px;
+    margin-bottom: 150px;
 }
 
 .btnDesativado {
@@ -52,7 +52,11 @@ footer {
 
 @media (max-width: 768px) {
     h1 {
-        font-size: 1.5rem;
+        font-size: 1.25rem;
+    }
+
+    .h6, h6 {
+        font-size: 0.8rem;
     }
 
     header,
@@ -62,7 +66,7 @@ footer {
     }
 
     .topicos {
-        margin-top: 120px;
+        margin-top: 110px;
         margin-bottom: 170px;
     }
 
