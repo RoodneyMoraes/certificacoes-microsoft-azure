@@ -161,7 +161,7 @@ async function carregarPagina($json, $localStorage) {
                                             Deseja realmente reiniciar todo o progresso? Ao confirmar, o histórico de acesso aos links de cada tópico armazenado no Local Storage será excluído.
                                         </div>
                                         <div class="modal-footer">
-                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
                                             <button type="button" class="btn btn-danger" onclick="localStorage.removeItem('${localStorage}'); $('#confirmacaoModal').modal('hide'); location.reload();">Confirmar</button>
                                         </div>
                                     </div>
