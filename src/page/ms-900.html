@@ -11,9 +11,37 @@
     <link href="../css/custom-page.css" rel="stylesheet">
 </head>
 <body>
-    <!-- INFORMATION -->
-    <h1>Ainda estou me preparando para este exame. Em breve, compartilharei o conteúdo que estudei!</h1>
-    <a href="../../index.html">Voltar à página principal</a>
+    <!-- HEADER -->
+    <header>
+        <div class="container">
+            <h1 id="tituloPagina"></h1>
+            <h6 id="descricaoProgresso"></h6>
+        </div>
+    </header>
+
+    <!-- MAIN -->
+    <div class="container topicos mt-6">
+        <div id="topicos" class="list-group mt-3"></div>
+    </div>
+
+    <!-- FOOTER -->
+    <footer>
+        <div class="container">
+            <div class="d-flex justify-content-between mt-3">
+                <div>
+                    <button id="btnLimpar" class="btn btn-secondary" onclick="limparLocalStorage()">Iniciar do Zero</button>
+                </div>
+                <div>
+                    <button id="btnAnterior" class="btn btn-primary" onclick="paginaAnterior()">Anterior</button>
+                    <button id="btnHome" class="btn btn-primary" onclick="confirmarVoltarHome()">Menu</button>
+                    <button id="btnProxima" class="btn btn-primary" onclick="proximaPagina()">Próxima</button>
+                </div>
+                <div>
+                    <div id="infoPagina" class="text-right"></div>
+                </div>
+            </div>
+        </div>
+    </footer>
 
     <!-- COOKIE CONSENT BANNER -->
     <div class="cookie-consent-banner bg-light text-dark p-3 fixed-bottom d-flex justify-content-between align-items-center"
