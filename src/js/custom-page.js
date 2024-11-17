@@ -156,9 +156,6 @@ async function carregarPagina($json, $localStorage) {
                                     <div class="modal-content">
                                         <div class="modal-header">
                                             <h5 class="modal-title" id="confirmacaoModalLabel">Iniciar do Zero?</h5>
-                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                <span aria-hidden="true">&times;</span>
-                                            </button>
                                         </div>
                                         <div class="modal-body">
                                             Deseja realmente reiniciar todo o progresso? Ao confirmar, o histórico de acesso aos links de cada tópico armazenado no Local Storage será excluído.
@@ -179,15 +176,12 @@ async function carregarPagina($json, $localStorage) {
                                     <div class="modal-content">
                                         <div class="modal-header">
                                             <h5 class="modal-title" id="voltarHomeModalLabel">Voltar ao Menu Principal?</h5>
-                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                                                <span aria-hidden="true">&times;</span>
-                                            </button>
                                         </div>
                                         <div class="modal-body">
                                             Tem certeza de que deseja voltar ao menu principal? Ao confirmar, você será redirecionado para a página de ‘Certificações da Microsoft Azure’
                                         </div>
                                         <div class="modal-footer">
-                                            <button type="button" class="btn btn-secondary" data-dismiss="modal">Cancelar</button>
+                                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
                                             <button type="button" class="btn btn-primary" onclick="window.location.href='../../index.html';">Confirmar</button>
                                         </div>
                                     </div>
