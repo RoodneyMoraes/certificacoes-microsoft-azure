@@ -54,10 +54,10 @@ async function carregarPagina($json, $localStorage) {
             elemento.target = "_blank";
             elemento.textContent = item.title;
             if (foiVisitado(item.link)) {
-                elemento.style.backgroundColor = "lightgreen";
+                elemento.style.backgroundColor = "#add8e6";
             }
             elemento.addEventListener('click', (e) => {
-                e.target.style.backgroundColor = "lightgreen";
+                e.target.style.backgroundColor = "#add8e6";
                 marcarComoVisitado(item.link);
 
                 // Adiciona o rastreamento do Google Analytics
