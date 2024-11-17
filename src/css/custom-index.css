@@ -190,6 +190,7 @@ footer .social-icons a {
 
     .cookie-consent-banner div {
         width: 100%;
+        margin-bottom: 12px;
     }
 
     .cookie-consent-banner .d-flex {
@@ -199,6 +200,7 @@ footer .social-icons a {
 
     .cookie-consent-banner .btn {
         width: 100%;
+        margin-top: 10px;
         margin-bottom: 10px;
     }
 
