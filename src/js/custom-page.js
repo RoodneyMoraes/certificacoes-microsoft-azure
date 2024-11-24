@@ -162,7 +162,7 @@ async function carregarPagina($json, $localStorage) {
                                         </div>
                                         <div class="modal-footer">
                                             <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancelar</button>
-                                            <button type="button" class="btn btn-secondary" onclick="localStorage.removeItem('${localStorage}'); $('#confirmacaoModal').modal('hide'); location.reload();">Confirmar</button>
+                                            <button type="button" class="btn btn-primary" onclick="localStorage.removeItem('${localStorage}'); $('#confirmacaoModal').modal('hide'); location.reload();">Confirmar</button>
                                         </div>
                                     </div>
                                 </div>
