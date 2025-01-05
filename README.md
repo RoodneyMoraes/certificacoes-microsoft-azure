@@ -22,13 +22,13 @@ A estrutura do projeto é organizada da seguinte forma:
     - `custom-index.css`: Estilos personalizados para a página inicial.
     - `custom-page.css`: Estilos personalizados para as páginas de simulado.
   - **data/**: Contém arquivos JSON com as questões dos simulados para cada certificação.
-    - `ai-900.json`, `az-104.json`, `az-204.json`, `az-305.json`, `az-900.json`, `dp-900.json`, `ms-900.json`, `sc-900.json`: Arquivos JSON com as questões dos simulados.
+    - `ai-900.json`, `az-104.json`, `az-204.json`, `az-305.json`, `az-900.json`, `dp-900.json`, `ms-900.json`, `sc-900.json` e `dp-600.html`: Arquivos JSON com as questões dos simulados.
   - **img/**: Diretório para armazenar imagens utilizadas no projeto.
   - **js/**: Contém arquivos JavaScript para funcionalidades das páginas.
     - `custom-page.js`: Script para carregar e gerenciar as questões dos simulados.
     - `google-analytics.js`: Script para integração com o Google Analytics.
   - **page/**: Contém arquivos HTML para cada simulado.
-    - `ai-900.html`, `az-104.html`, `az-204.html`, `az-305.html`, `az-900.html`, `dp-900.html`, `ms-900.html`, `sc-900.html`: Páginas HTML para cada simulado.
+    - `ai-900.html`, `az-104.html`, `az-204.html`, `az-305.html`, `az-900.html`, `dp-900.html`, `ms-900.html`, `sc-900.html` e `dp-600.html`: Páginas HTML para cada simulado.
 
 ### Funcionalidades
 
